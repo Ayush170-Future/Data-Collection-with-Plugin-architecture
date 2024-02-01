@@ -40,7 +40,7 @@ const createForm = asyncHalder(async(req, res, next) => {
     const result = await savedForm.save();
     if(result) {
         res.status(200);
-        res.locals.data = { result };
+        res.result = result;
         next();
     } else {
         res.status(500)
@@ -79,9 +79,8 @@ const addQuestions = asyncHalder(async(req, res, next) => {
 
     const result = await form.save();
     if(result) {
-        res.status(200);
-        res.result = result;
-        next();
+        res.status(200).json(result);
+        //res.result = result;
     } else {
         res.status(500)
         throw new Error("Internal Server Error: Couldn't save the Questions in the Form")
@@ -95,7 +94,7 @@ const createFormEventEmitter = asyncHalder(async (req, res, next) => {
 
     res.status(200).json({
         title: "OK",
-        message: "Request successful",
+        message: "Successfully Created the Form!",
         result: res.result,
     });
 });

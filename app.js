@@ -55,8 +55,7 @@ class DataCollectionApp extends EventEmitter {
 
   async stop() {
 
-    // Shutting down the Express connection
-    this.connection.close();
+    // TODO: Shutting down the Express connection
 
     // Shutting down the MongoDB connection
     await mongoose.disconnect();
