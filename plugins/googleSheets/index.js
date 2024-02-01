@@ -1,6 +1,7 @@
 const { GoogleSpreadsheet } = require('google-spreadsheet');
 const { JWT } = require('google-auth-library');
 const creds = require('../../credentials.json');
+const Sheet = require("./models/sheetModel");
 
 async function load(app) {
     
@@ -17,23 +18,43 @@ async function load(app) {
             scopes: SCOPES,
         });
 
-        doc = new GoogleSpreadsheet('1sCgk5Fe6WaU99HRBhSKaN-NP0_2cp15j0LH3q-ooti0', jwt);
+        doc = new GoogleSpreadsheet(creds.sheet_id, jwt);
         await doc.loadInfo();
-
-        // let sheet = await getSheetById(744028591);
-        // console.log(sheet);
     }
     start();
 
-    async function getSheetById(id) {
-        return await doc._rawSheets[id];
+    async function getSheetByFromId(formId) {
+        const sheetDB = await Sheet.findOne({formId:formId});
+        console.log(sheetDB.sheetId);
+        return await doc.sheetsById[parseInt(sheetDB.sheetId)];
     }
 
     app.on("FormCreated", async (details) => {
-        const { questions } = details;
-        const headers = questions.map((question) => question.questionText);
-        sheet = await doc.addSheet({ headerValues: headers });
-        console.log(sheet._rawProperties);
+        try {
+            const { questions } = details;
+            const headers = questions.map((question) => question.questionText);
+            const sheet = await doc.addSheet({ headerValues: headers });
+            const sheetId = sheet._rawProperties.sheetId;
+            const sheetDB = new Sheet({formId: details._id, sheetId: sheetId});
+            const result = sheetDB.save();
+            console.log("Sheet Created")
+        }
+        catch (err) {
+            console.log(err);
+        }
+    })
+
+    app.on("ResponseGenerated", async (responseJSON, formId) => {
+        try {
+            console.log(responseJSON);
+            await doc.loadInfo();
+            const sheet = await getSheetByFromId(formId);
+            await sheet.addRow(responseJSON);
+            console.log("Row Added!")
+        }
+        catch (err) {
+            console.log(err);
+        }
     })
 }
 

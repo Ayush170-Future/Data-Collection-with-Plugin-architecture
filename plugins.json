@@ -1,9 +1,5 @@
 {
     "plugins": {
-      "counter": {
-        "path": "./plugins/counter.js",
-        "enabled": true
-      },
       "googleSheets": {
         "path": "./plugins/googleSheets/index.js",
         "enabled": true

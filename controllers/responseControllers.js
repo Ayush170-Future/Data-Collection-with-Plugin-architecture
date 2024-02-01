@@ -47,6 +47,8 @@ const addResponseToAForm = asyncHalder(async (req, res, next) => {
 
     console.log("Reached here2");
 
+    const responseJSON = new Object();
+
     // Saving all the responses in the DB
     for (const { questionId, responseText } of responses) {
         const question = await Question.findOne({ _id: questionId });
@@ -58,7 +60,8 @@ const addResponseToAForm = asyncHalder(async (req, res, next) => {
 
         const response = new Response({ formId: form, questionId: question, responseText: responseText });
         const result = await response.save();
-
+        responseJSON[question.questionText] = responseText;
+        
         if (!result) {
             res.status(500)
             throw new Error("Internal Server Error: Couldn't save the Response in the Form of questionId: " + questionId);
@@ -68,13 +71,15 @@ const addResponseToAForm = asyncHalder(async (req, res, next) => {
     res.status(200);
     const result = { "Result": "Successfully added responses" };
     res.result = result;
+    res.responseJSON = responseJSON;
+    res.formId = form_id;
     next();
 });
 
 const responseEventEmitter = asyncHalder((req, res) => {
 
     const dataCollectionApp = global.dataCollectionApp;
-    dataCollectionApp.emit('ResponseGenerated', res.result);
+    dataCollectionApp.emit('ResponseGenerated', res.responseJSON, res.formId);
 
     res.status(200).json({
         title: "OK",
