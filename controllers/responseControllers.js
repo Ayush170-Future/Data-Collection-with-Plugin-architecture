@@ -5,7 +5,6 @@ const Response = require("../models/responseModel");
 const mongoose = require('mongoose');
 
 const addResponseToAForm = asyncHalder(async (req, res) => {
-    console.log("Entered addResponseToAForm");
 
     const { responses } = req.body;
     const form_id = req.params.id;
@@ -22,16 +21,12 @@ const addResponseToAForm = asyncHalder(async (req, res) => {
         throw new Error("Form doesn't exist!");
     }
 
-    console.log("Form found");
-
     // Set contains the ID of all the questions answered by the User
     let questions_answered_set = new Set();
 
     for (const { questionId } of responses) {
         questions_answered_set.add(questionId);
     }
-
-    console.log("Reached here1");
 
     // Checking if the User has answered all the required questions in the form or not
     for (const questionId of form.questions) {
@@ -70,9 +65,7 @@ const addResponseToAForm = asyncHalder(async (req, res) => {
         }
     }
 
-    //res.status(200).json({ "Result": "Successfully added responses" });
-
-    console.log("Responses saved successfully");
+    res.status(200).json({ "Result": "Successfully added responses" });
 });
 
 module.exports = {addResponseToAForm};

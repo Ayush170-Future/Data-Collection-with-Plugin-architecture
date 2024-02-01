@@ -2,38 +2,6 @@ const asyncHalder = require("express-async-handler");
 const Form = require("../models/formModel");
 const Question = require("../models/questionModel");
 
-// title: {
-//     type: String,
-//     required: true,
-//     trim: true,
-//   },
-//   description: {
-//     type: String,
-//     trim: true,
-//   },
-//   createdBy: {
-//     type: String, // Email of the creator
-//   },
-//   questions: [{
-//     type: mongoose.Schema.Types.ObjectId,
-//     ref: 'Question'
-//   }],
-
-
-// question: {
-//     type: String,
-//     required: true,
-//     trim: true,
-//   },
-//   required: {
-//     type: Boolean,
-//     default: false,
-//   }
-// formId: {
-//     type: mongoose.Schema.Types.ObjectId,    // In Future we might have a use-case where we want to fetch question based upon FormID
-//     ref: 'Form',                             // Little optimization in speed wrt increase in redundency
-//   },
-
 const createForm = asyncHalder(async(req, res) => {
     const {title, description, createdBy, questions} = req.body;
 
