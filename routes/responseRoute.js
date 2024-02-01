@@ -1,6 +1,6 @@
 const router = require("express").Router();
-const {addResponseToAForm} = require("../controllers/responseControllers");
+const {addResponseToAForm, responseEventEmitter} = require("../controllers/responseControllers");
 
-router.post('/add/:id', addResponseToAForm);
+router.post('/add/:id', addResponseToAForm, responseEventEmitter);
 
 module.exports = router;

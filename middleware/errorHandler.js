@@ -1,15 +1,9 @@
 const errorHandler = (err, req, res, next) => {
+
+    console.log("Inside Error Handler");
     const statusCode = res.statusCode ? res.statusCode : 500;
 
     switch(statusCode) {
-        case 200:
-            // Handle 200 OK response
-            res.status(200).json({
-                title: "OK",
-                message: "Request successful",
-                data: res.locals.data,
-            });
-            break;
         case 400:
             res.status(400).json({
                 title: "Bad Request",

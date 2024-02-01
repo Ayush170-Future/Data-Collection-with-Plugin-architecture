@@ -4,7 +4,7 @@ const Question = require("../models/questionModel");
 const Response = require("../models/responseModel");
 const mongoose = require('mongoose');
 
-const addResponseToAForm = asyncHalder(async (req, res) => {
+const addResponseToAForm = asyncHalder(async (req, res, next) => {
 
     const { responses } = req.body;
     const form_id = req.params.id;
@@ -65,7 +65,22 @@ const addResponseToAForm = asyncHalder(async (req, res) => {
         }
     }
 
-    res.status(200).json({ "Result": "Successfully added responses" });
+    res.status(200);
+    const result = { "Result": "Successfully added responses" };
+    res.result = result;
+    next();
 });
 
-module.exports = {addResponseToAForm};
+const responseEventEmitter = asyncHalder((req, res) => {
+
+    const dataCollectionApp = global.dataCollectionApp;
+    dataCollectionApp.emit('ResponseGenerated', res.result);
+
+    res.status(200).json({
+        title: "OK",
+        message: "Request successful",
+        result: res.result,
+    });
+});
+
+module.exports = {addResponseToAForm, responseEventEmitter};

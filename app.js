@@ -3,9 +3,11 @@ const express = require('express');
 const mongoose = require('mongoose');
 const errorHandler = require('./middleware/errorHandler.js');
 const Plugins = require('./pluginsManager.js');
+const EventEmitter = require('events');
 
-class DataCollectionApp {
+class DataCollectionApp extends EventEmitter {
   constructor() {
+    super();
     this.server = express(); // Change 'app' to 'server'
     this.port = process.env.PORT || 5000;
 
@@ -63,3 +65,4 @@ class DataCollectionApp {
 }
 
 const dataCollectionApp = new DataCollectionApp();
+global.dataCollectionApp = dataCollectionApp;

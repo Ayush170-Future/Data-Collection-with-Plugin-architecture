@@ -2,7 +2,7 @@ const asyncHalder = require("express-async-handler");
 const Form = require("../models/formModel");
 const Question = require("../models/questionModel");
 
-const createForm = asyncHalder(async(req, res) => {
+const createForm = asyncHalder(async(req, res, next) => {
     const {title, description, createdBy, questions} = req.body;
 
     if(!title) {
@@ -39,14 +39,16 @@ const createForm = asyncHalder(async(req, res) => {
 
     const result = await savedForm.save();
     if(result) {
-        res.status(200).json({ result });
+        res.status(200);
+        res.locals.data = { result };
+        next();
     } else {
         res.status(500)
         throw new Error("Internal Server Error: Couldn't save the Questions in the Form")
     }
 })
 
-const addQuestions = asyncHalder(async(req, res) => {
+const addQuestions = asyncHalder(async(req, res, next) => {
     const {questions} = req.body;
     const form_id = req.params.id;
 
@@ -77,11 +79,25 @@ const addQuestions = asyncHalder(async(req, res) => {
 
     const result = await form.save();
     if(result) {
-        res.status(200).json({ result });
+        res.status(200);
+        res.result = result;
+        next();
     } else {
         res.status(500)
         throw new Error("Internal Server Error: Couldn't save the Questions in the Form")
     }
-})
+});
 
-module.exports = {createForm, addQuestions};
+const createFormEventEmitter = asyncHalder(async (req, res, next) => {
+
+    const dataCollectionApp = global.dataCollectionApp;
+    dataCollectionApp.emit('FormCreated', res.result);
+
+    res.status(200).json({
+        title: "OK",
+        message: "Request successful",
+        result: res.result,
+    });
+});
+
+module.exports = {createForm, addQuestions, createFormEventEmitter};
