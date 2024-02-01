@@ -1,0 +1,9 @@
+{
+    "plugins": {
+      "counter": {
+        "path": "./plugins/counter.js",
+        "enabled": true
+      }
+    }
+  }
+  

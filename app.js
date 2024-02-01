@@ -2,11 +2,14 @@ require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
 const errorHandler = require('./middleware/errorHandler.js');
+const Plugins = require('./pluginsManager.js');
 
 class DataCollectionApp {
   constructor() {
-    this.app = express();
+    this.server = express(); // Change 'app' to 'server'
     this.port = process.env.PORT || 5000;
+
+    this.plugins = new Plugins(this);
 
     this.setupMiddleware();
     this.setupRoutes();
@@ -16,17 +19,17 @@ class DataCollectionApp {
   }
 
   setupMiddleware() {
-    this.app.use(express.json());
-    this.app.use(express.urlencoded({ extended: true }));
+    this.server.use(express.json()); // Change 'app' to 'server'
+    this.server.use(express.urlencoded({ extended: true })); // Change 'app' to 'server'
   }
 
   setupRoutes() {
-    this.app.use('/form/', require('./routes/formRoute'));
-    this.app.use('/response/', require('./routes/responseRoute'));
+    this.server.use('/form/', require('./routes/formRoute')); // Change 'app' to 'server'
+    this.server.use('/response/', require('./routes/responseRoute')); // Change 'app' to 'server'
   }
 
   setupErrorHandling() {
-    this.app.use(errorHandler);
+    this.server.use(errorHandler); // Change 'app' to 'server'
   }
 
   connectToDatabase() {
@@ -40,12 +43,23 @@ class DataCollectionApp {
       });
   }
 
-  startServer() {
-    this.app.listen(this.port, () => {
+  async startServer() {
+    await this.plugins.loadFromConfig();
+
+    this.connection = this.server.listen(this.port, () => {
       console.log(`Server running on port ${this.port}`);
     });
   }
+
+  async stop() {
+
+    // Shutting down the Express connection
+    this.connection.close();
+
+    // Shutting down the MongoDB connection
+    await mongoose.disconnect();
+    console.log('Server and MongoDB connection stopped');
+  }
 }
 
-// Starting the main application
 const dataCollectionApp = new DataCollectionApp();
