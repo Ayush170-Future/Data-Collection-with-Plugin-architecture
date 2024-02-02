@@ -5,6 +5,8 @@ const errorHandler = require('./middleware/errorHandler.js');
 const Plugins = require('./pluginsManager.js');
 const EventEmitter = require('events');
 const logger = require('./logger/index.js');
+const responseTime = require('response-time');
+const {client, reqResTime, totalReqCounter} = require('./metrics');
 
 class DataCollectionApp extends EventEmitter {
   constructor() {
@@ -17,6 +19,7 @@ class DataCollectionApp extends EventEmitter {
     this.setupMiddleware();
     this.setupRoutes();
     this.setupErrorHandling();
+    this.setupMetricCollectionRoute();
   }
 
   setupMiddleware() {
@@ -26,9 +29,35 @@ class DataCollectionApp extends EventEmitter {
   }
 
   setupRoutes() {
+    // Triggers the Metric collection
+    this.server.use(responseTime((req, res, time) => {
+        totalReqCounter.inc();
+        reqResTime.labels({
+            method: req.method,
+            route: req.method,
+            status_code: res.statusCode,
+        })
+        .observe(time);
+    }))
+
+    // General Route
+    this.server.get('/', (req, res) => {
+        res.send('Welcome to the default home page!');
+    });
+
+    // Form routes
     this.server.use('/form/', require('./routes/formRoute'));
     this.server.use('/response/', require('./routes/responseRoute'));
     logger.info('Routes configured');
+  }
+
+  setupMetricCollectionRoute() {
+    this.server.get("/metrics", async (req, res) => {
+        res.setHeader("Content-Type", client.register.contentType);
+        const metrics = await client.register.metrics();
+        res.send(metrics);
+    });
+    logger.info('Metrics Collection routes configured');
   }
 
   setupErrorHandling() {
@@ -77,6 +106,6 @@ async function startApp() {
 
 startApp();
 
-["exit", "SIGINT", "SIGUSR1", "SIGUSR2", "SIGTERM", "uncaughtException"].forEach(event => {
-    process.on(event, () => global.dataCollectionApp.stop());
+["exit", "SIGINT", "SIGUSR1", "SIGUSR2", "SIGTERM"].forEach(event => {
+    process.on(event, () => global.dataCollectionApp.stop()); // uncaughtException
 });

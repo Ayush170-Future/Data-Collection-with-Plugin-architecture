@@ -77,3 +77,261 @@
 16:32:33 [32minfo[39m: Stopping the express connection...
 16:32:33 [32minfo[39m: Server and MongoDB connection stopped
 16:32:33 [32minfo[39m: Stopping the server...
+18:53:18 [32minfo[39m: Logging Started!
+18:53:19 [32minfo[39m: Middleware configured
+18:53:19 [32minfo[39m: Routes configured
+18:53:19 [32minfo[39m: Error handling set up
+18:53:19 [32minfo[39m: Metrics collector configured
+18:53:19 [32minfo[39m: Metrics Collection routes configured
+18:53:19 [32minfo[39m: DataCollectionApp initialized
+18:53:19 [32minfo[39m: Connected to Mongoose
+18:53:19 [32minfo[39m: Loading plugin: googleSheets
+18:53:20 [32minfo[39m: Loaded plugin: googleSheets
+18:53:20 [32minfo[39m: Server running on port 5000
+18:53:52 [32minfo[39m: Stopping the server...
+18:53:52 [32minfo[39m: Stopping the express connection...
+18:53:52 [32minfo[39m: Server and MongoDB connection stopped
+18:53:52 [32minfo[39m: Stopping the server...
+18:55:01 [32minfo[39m: Logging Started!
+18:55:01 [32minfo[39m: Middleware configured
+18:55:01 [32minfo[39m: Routes configured
+18:55:01 [32minfo[39m: Error handling set up
+18:55:01 [32minfo[39m: Metrics collector configured
+18:55:01 [32minfo[39m: Metrics Collection routes configured
+18:55:01 [32minfo[39m: DataCollectionApp initialized
+18:55:01 [32minfo[39m: Connected to Mongoose
+18:55:01 [32minfo[39m: Loading plugin: googleSheets
+18:55:02 [32minfo[39m: Loaded plugin: googleSheets
+18:55:02 [32minfo[39m: Server running on port 5000
+18:56:49 [32minfo[39m: Stopping the server...
+18:56:49 [32minfo[39m: Server and MongoDB connection stopped
+18:56:55 [32minfo[39m: Stopping the server...
+18:56:55 [32minfo[39m: Server and MongoDB connection stopped
+18:56:57 [32minfo[39m: Stopping the server...
+18:56:57 [32minfo[39m: Server and MongoDB connection stopped
+18:56:57 [32minfo[39m: Stopping the server...
+18:56:57 [32minfo[39m: Server and MongoDB connection stopped
+18:56:58 [32minfo[39m: Stopping the server...
+18:56:58 [32minfo[39m: Server and MongoDB connection stopped
+18:56:58 [32minfo[39m: Stopping the server...
+18:56:58 [32minfo[39m: Server and MongoDB connection stopped
+18:56:58 [32minfo[39m: Stopping the server...
+18:56:58 [32minfo[39m: Server and MongoDB connection stopped
+18:56:59 [32minfo[39m: Stopping the server...
+18:56:59 [32minfo[39m: Server and MongoDB connection stopped
+18:56:59 [32minfo[39m: Stopping the server...
+18:56:59 [32minfo[39m: Server and MongoDB connection stopped
+18:56:59 [32minfo[39m: Stopping the server...
+18:56:59 [32minfo[39m: Server and MongoDB connection stopped
+18:56:59 [32minfo[39m: Stopping the server...
+18:56:59 [32minfo[39m: Server and MongoDB connection stopped
+18:56:59 [32minfo[39m: Stopping the server...
+18:56:59 [32minfo[39m: Server and MongoDB connection stopped
+18:57:00 [32minfo[39m: Stopping the server...
+18:57:00 [32minfo[39m: Server and MongoDB connection stopped
+18:57:23 [32minfo[39m: Stopping the server...
+18:57:23 [32minfo[39m: Server and MongoDB connection stopped
+18:57:47 [32minfo[39m: Logging Started!
+18:57:48 [32minfo[39m: Middleware configured
+18:57:48 [32minfo[39m: Routes configured
+18:57:48 [32minfo[39m: Error handling set up
+18:57:48 [32minfo[39m: Metrics collector configured
+18:57:48 [32minfo[39m: Metrics Collection routes configured
+18:57:48 [32minfo[39m: DataCollectionApp initialized
+18:57:48 [32minfo[39m: Connected to Mongoose
+18:57:48 [32minfo[39m: Loading plugin: googleSheets
+18:57:48 [32minfo[39m: Loaded plugin: googleSheets
+18:57:48 [32minfo[39m: Server running on port 5000
+18:57:50 [32minfo[39m: Stopping the server...
+18:57:50 [32minfo[39m: Stopping the express connection...
+18:57:50 [32minfo[39m: Server and MongoDB connection stopped
+18:57:50 [32minfo[39m: Stopping the server...
+19:28:53 [32minfo[39m: Logging Started!
+19:28:53 [32minfo[39m: Middleware configured
+19:28:53 [32minfo[39m: Routes configured
+19:28:53 [32minfo[39m: Error handling set up
+19:28:53 [32minfo[39m: Metrics collector configured
+19:28:53 [32minfo[39m: Metrics Collection routes configured
+19:28:53 [32minfo[39m: DataCollectionApp initialized
+19:28:53 [32minfo[39m: Connected to Mongoose
+19:28:53 [32minfo[39m: Loading plugin: googleSheets
+19:28:54 [32minfo[39m: Loaded plugin: googleSheets
+19:28:54 [32minfo[39m: Server running on port 5000
+19:41:35 [32minfo[39m: Stopping the server...
+19:41:35 [32minfo[39m: Stopping the express connection...
+19:41:36 [32minfo[39m: Server and MongoDB connection stopped
+19:41:36 [32minfo[39m: Stopping the server...
+19:41:43 [32minfo[39m: Logging Started!
+19:41:43 [32minfo[39m: Middleware configured
+19:41:43 [32minfo[39m: Routes configured
+19:41:43 [32minfo[39m: Error handling set up
+19:41:43 [32minfo[39m: Metrics collector configured
+19:41:43 [32minfo[39m: Metrics Collection routes configured
+19:41:43 [32minfo[39m: DataCollectionApp initialized
+19:41:43 [32minfo[39m: Connected to Mongoose
+19:41:43 [32minfo[39m: Loading plugin: googleSheets
+19:41:44 [32minfo[39m: Loaded plugin: googleSheets
+19:41:44 [32minfo[39m: Server running on port 5000
+20:27:41 [32minfo[39m: Stopping the server...
+20:27:41 [32minfo[39m: Stopping the express connection...
+20:27:41 [32minfo[39m: Server and MongoDB connection stopped
+20:27:41 [32minfo[39m: Stopping the server...
+20:34:36 [32minfo[39m: Logging Started!
+20:34:36 [32minfo[39m: Middleware configured
+20:34:36 [32minfo[39m: Routes configured
+20:34:36 [32minfo[39m: Error handling set up
+20:34:36 [32minfo[39m: Metrics collector configured
+20:34:36 [32minfo[39m: Metrics Collection routes configured
+20:34:36 [32minfo[39m: DataCollectionApp initialized
+20:34:37 [32minfo[39m: Connected to Mongoose
+20:34:37 [32minfo[39m: Loading plugin: googleSheets
+20:34:37 [32minfo[39m: Loaded plugin: googleSheets
+20:34:37 [32minfo[39m: Server running on port 5000
+20:34:37 [32minfo[39m: Stopping the server...
+20:34:37 [32minfo[39m: Server and MongoDB connection stopped
+20:34:41 [32minfo[39m: Stopping the express connection...
+20:34:41 [32minfo[39m: Stopping the server...
+20:35:23 [32minfo[39m: Logging Started!
+20:35:23 [32minfo[39m: Middleware configured
+20:35:23 [32minfo[39m: Routes configured
+20:35:23 [32minfo[39m: Error handling set up
+20:35:23 [32minfo[39m: Metrics collector configured
+20:35:23 [32minfo[39m: Metrics Collection routes configured
+20:35:23 [32minfo[39m: DataCollectionApp initialized
+20:35:23 [32minfo[39m: Connected to Mongoose
+20:35:23 [32minfo[39m: Loading plugin: googleSheets
+20:35:24 [32minfo[39m: Loaded plugin: googleSheets
+20:35:24 [32minfo[39m: Server running on port 5000
+20:35:25 [32minfo[39m: Stopping the server...
+20:35:25 [32minfo[39m: Server and MongoDB connection stopped
+20:35:29 [32minfo[39m: Stopping the express connection...
+20:35:29 [32minfo[39m: Stopping the server...
+20:36:21 [32minfo[39m: Logging Started!
+20:36:21 [32minfo[39m: Middleware configured
+20:36:21 [32minfo[39m: Routes configured
+20:36:21 [32minfo[39m: Error handling set up
+20:36:21 [32minfo[39m: Metrics collector configured
+20:36:21 [32minfo[39m: Metrics Collection routes configured
+20:36:21 [32minfo[39m: DataCollectionApp initialized
+20:36:21 [32minfo[39m: Connected to Mongoose
+20:36:21 [32minfo[39m: Loading plugin: googleSheets
+20:36:21 [32minfo[39m: Loaded plugin: googleSheets
+20:36:21 [32minfo[39m: Server running on port 5000
+20:36:21 [32minfo[39m: Stopping the server...
+20:36:21 [32minfo[39m: Server and MongoDB connection stopped
+20:36:25 [32minfo[39m: Stopping the express connection...
+20:36:25 [32minfo[39m: Stopping the server...
+20:41:29 [32minfo[39m: Logging Started!
+20:41:29 [32minfo[39m: Middleware configured
+20:41:29 [32minfo[39m: Routes configured
+20:41:29 [32minfo[39m: Error handling set up
+20:41:29 [32minfo[39m: Metrics collector configured
+20:41:29 [32minfo[39m: Metrics Collection routes configured
+20:41:29 [32minfo[39m: DataCollectionApp initialized
+20:41:29 [32minfo[39m: Connected to Mongoose
+20:41:29 [32minfo[39m: Loading plugin: googleSheets
+20:41:29 [32minfo[39m: Loaded plugin: googleSheets
+20:41:29 [32minfo[39m: Server running on port 5000
+20:41:29 [32minfo[39m: Stopping the server...
+20:41:29 [32minfo[39m: Server and MongoDB connection stopped
+20:41:33 [32minfo[39m: Stopping the express connection...
+20:41:50 [32minfo[39m: Stopping the server...
+20:41:50 [32minfo[39m: Stopping the express connection...
+20:41:50 [32minfo[39m: Server and MongoDB connection stopped
+20:41:52 [32minfo[39m: Stopping the server...
+20:41:52 [32minfo[39m: Stopping the express connection...
+20:41:52 [32minfo[39m: Server and MongoDB connection stopped
+20:41:52 [32minfo[39m: Stopping the server...
+20:41:52 [32minfo[39m: Stopping the express connection...
+20:41:52 [32minfo[39m: Server and MongoDB connection stopped
+20:42:04 [32minfo[39m: Logging Started!
+20:42:04 [32minfo[39m: Middleware configured
+20:42:04 [32minfo[39m: Routes configured
+20:42:04 [32minfo[39m: Error handling set up
+20:42:04 [32minfo[39m: Metrics collector configured
+20:42:04 [32minfo[39m: Metrics Collection routes configured
+20:42:04 [32minfo[39m: DataCollectionApp initialized
+20:42:04 [32minfo[39m: Connected to Mongoose
+20:42:04 [32minfo[39m: Loading plugin: googleSheets
+20:42:05 [32minfo[39m: Loaded plugin: googleSheets
+20:42:05 [32minfo[39m: Server running on port 5000
+20:44:10 [32minfo[39m: Logging Started!
+20:44:10 [32minfo[39m: Middleware configured
+20:44:10 [32minfo[39m: Routes configured
+20:44:10 [32minfo[39m: Error handling set up
+20:44:10 [32minfo[39m: Metrics collector configured
+20:44:10 [32minfo[39m: Metrics Collection routes configured
+20:44:10 [32minfo[39m: DataCollectionApp initialized
+20:44:10 [32minfo[39m: Connected to Mongoose
+20:44:10 [32minfo[39m: Loading plugin: googleSheets
+20:44:10 [32minfo[39m: Loaded plugin: googleSheets
+20:44:10 [32minfo[39m: Server running on port 5000
+20:55:59 [32minfo[39m: Logging Started!
+20:55:59 [32minfo[39m: Middleware configured
+20:55:59 [32minfo[39m: Routes configured
+20:55:59 [32minfo[39m: Error handling set up
+20:55:59 [32minfo[39m: Metrics collector configured
+20:55:59 [32minfo[39m: Metrics Collection routes configured
+20:55:59 [32minfo[39m: DataCollectionApp initialized
+20:55:59 [32minfo[39m: Connected to Mongoose
+20:55:59 [32minfo[39m: Loading plugin: googleSheets
+20:56:00 [32minfo[39m: Loaded plugin: googleSheets
+20:56:00 [32minfo[39m: Server running on port 5000
+21:01:46 [32minfo[39m: Stopping the server...
+21:01:46 [32minfo[39m: Stopping the express connection...
+21:01:46 [32minfo[39m: Server and MongoDB connection stopped
+21:01:46 [32minfo[39m: Stopping the server...
+21:39:22 [32minfo[39m: Logging Started!
+21:39:22 [32minfo[39m: Middleware configured
+21:39:22 [32minfo[39m: Routes configured
+21:39:22 [32minfo[39m: Error handling set up
+21:39:23 [32minfo[39m: Metrics collector configured
+21:39:23 [32minfo[39m: Metrics Collection routes configured
+21:39:23 [32minfo[39m: DataCollectionApp initialized
+21:39:23 [32minfo[39m: Connected to Mongoose
+21:39:23 [32minfo[39m: Loading plugin: googleSheets
+21:39:24 [32minfo[39m: Loaded plugin: googleSheets
+21:39:24 [32minfo[39m: Server running on port 5000
+21:39:25 [32minfo[39m: Stopping the server...
+21:41:50 [32minfo[39m: Logging Started!
+21:41:50 [32minfo[39m: Middleware configured
+21:41:50 [32minfo[39m: Routes configured
+21:41:50 [32minfo[39m: Error handling set up
+21:41:50 [32minfo[39m: Metrics collector configured
+21:41:50 [32minfo[39m: Metrics Collection routes configured
+21:41:50 [32minfo[39m: DataCollectionApp initialized
+21:41:50 [32minfo[39m: Connected to Mongoose
+21:41:50 [32minfo[39m: Loading plugin: googleSheets
+21:41:51 [32minfo[39m: Loaded plugin: googleSheets
+21:41:51 [32minfo[39m: Server running on port 5000
+21:41:51 [32minfo[39m: Stopping the server...
+21:45:29 [32minfo[39m: Logging Started!
+21:45:29 [32minfo[39m: Middleware configured
+21:45:29 [32minfo[39m: Routes configured
+21:45:29 [32minfo[39m: Error handling set up
+21:45:29 [32minfo[39m: Metrics collector configured
+21:45:29 [32minfo[39m: Metrics Collection routes configured
+21:45:29 [32minfo[39m: DataCollectionApp initialized
+21:45:29 [32minfo[39m: Connected to Mongoose
+21:45:29 [32minfo[39m: Loading plugin: googleSheets
+21:45:29 [32minfo[39m: Loaded plugin: googleSheets
+21:45:29 [32minfo[39m: Server running on port 5000
+21:48:56 [32minfo[39m: Stopping the server...
+21:48:56 [32minfo[39m: Stopping the express connection...
+21:48:56 [32minfo[39m: Server and MongoDB connection stopped
+21:48:56 [32minfo[39m: Stopping the server...
+21:49:01 [32minfo[39m: Logging Started!
+21:49:01 [32minfo[39m: Metrics collector configured
+21:49:01 [32minfo[39m: Middleware configured
+21:49:01 [32minfo[39m: Routes configured
+21:49:01 [32minfo[39m: Error handling set up
+21:49:01 [32minfo[39m: Metrics Collection routes configured
+21:49:01 [32minfo[39m: DataCollectionApp initialized
+21:49:01 [32minfo[39m: Connected to Mongoose
+21:49:01 [32minfo[39m: Loading plugin: googleSheets
+21:49:01 [32minfo[39m: Loaded plugin: googleSheets
+21:49:01 [32minfo[39m: Server running on port 5000
+21:49:19 [32minfo[39m: Stopping the server...
+21:49:19 [32minfo[39m: Stopping the express connection...
+21:49:19 [32minfo[39m: Server and MongoDB connection stopped
+21:49:19 [32minfo[39m: Stopping the server...

@@ -18,6 +18,8 @@
     "google-spreadsheet": "^4.1.1",
     "mongoose": "^8.1.1",
     "nodemon": "^3.0.3",
+    "prom-client": "^15.1.0",
+    "response-time": "^2.3.2",
     "winston": "^3.11.0"
   },
   "devDependencies": {
