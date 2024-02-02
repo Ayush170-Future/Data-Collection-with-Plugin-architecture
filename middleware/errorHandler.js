@@ -1,7 +1,11 @@
+const logger = require('../logger/index.js');
 const errorHandler = (err, req, res, next) => {
 
-    console.log("Inside Error Handler");
+    logger.info("Inside Error Handler");
     const statusCode = res.statusCode ? res.statusCode : 500;
+
+    logger.error(err.message);
+    logger.error(err.stack);
 
     switch(statusCode) {
         case 400:

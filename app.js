@@ -4,11 +4,12 @@ const mongoose = require('mongoose');
 const errorHandler = require('./middleware/errorHandler.js');
 const Plugins = require('./pluginsManager.js');
 const EventEmitter = require('events');
+const logger = require('./logger/index.js');
 
 class DataCollectionApp extends EventEmitter {
   constructor() {
     super();
-    this.server = express(); // Change 'app' to 'server'
+    this.server = express();
     this.port = process.env.PORT || 5000;
 
     this.plugins = new Plugins(this);
@@ -21,27 +22,30 @@ class DataCollectionApp extends EventEmitter {
   }
 
   setupMiddleware() {
-    this.server.use(express.json()); // Change 'app' to 'server'
-    this.server.use(express.urlencoded({ extended: true })); // Change 'app' to 'server'
+    this.server.use(express.json());
+    this.server.use(express.urlencoded({ extended: true }));
+    logger.info('Middleware configured');
   }
 
   setupRoutes() {
-    this.server.use('/form/', require('./routes/formRoute')); // Change 'app' to 'server'
-    this.server.use('/response/', require('./routes/responseRoute')); // Change 'app' to 'server'
+    this.server.use('/form/', require('./routes/formRoute'));
+    this.server.use('/response/', require('./routes/responseRoute'));
+    logger.info('Routes configured');
   }
 
   setupErrorHandling() {
-    this.server.use(errorHandler); // Change 'app' to 'server'
+    this.server.use(errorHandler);
+    logger.info('Error handling set up');
   }
 
   connectToDatabase() {
     mongoose
       .connect(process.env.MONGODB_URI)
       .then(() => {
-        console.log('Connected to Mongoose');
+        logger.info('Connected to Mongoose');
       })
       .catch((err) => {
-        console.log(err);
+        logger.error(`MongoDB connection error: ${err}`);
       });
   }
 
@@ -49,19 +53,20 @@ class DataCollectionApp extends EventEmitter {
     await this.plugins.loadFromConfig();
 
     this.connection = this.server.listen(this.port, () => {
-      console.log(`Server running on port ${this.port}`);
+      logger.info(`Server running on port ${this.port}`);
     });
   }
 
   async stop() {
-
     // TODO: Shutting down the Express connection
+    logger.info('Stopping the server...');
 
     // Shutting down the MongoDB connection
     await mongoose.disconnect();
-    console.log('Server and MongoDB connection stopped');
+    logger.info('Server and MongoDB connection stopped');
   }
 }
 
 const dataCollectionApp = new DataCollectionApp();
 global.dataCollectionApp = dataCollectionApp;
+logger.info('DataCollectionApp initialized');

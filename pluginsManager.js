@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const logger = require('./logger/index.js');
 
 class Plugins {
   constructor(app) {
@@ -8,24 +9,28 @@ class Plugins {
   }
 
   async loadFromConfig(configPath = './plugins.json') {
-    const pluginsConfig = JSON.parse(fs.readFileSync(configPath)).plugins;
-    for (let plugin in pluginsConfig) {
-      if (pluginsConfig[plugin].enabled) {
-        await this.load(plugin, pluginsConfig[plugin].path);
+    try {
+      const pluginsConfig = JSON.parse(fs.readFileSync(configPath)).plugins;
+
+      for (let plugin in pluginsConfig) {
+        if (pluginsConfig[plugin].enabled) {
+          await this.load(plugin, pluginsConfig[plugin].path);
+        }
       }
+    } catch (error) {
+      logger.error(`Failed to load plugins from config: ${error}`);
     }
   }
 
   async load(plugin, pluginPath) {
     try {
-      console.log(pluginPath)
+      logger.info(`Loading plugin: ${plugin}`);
       const module = require(path.resolve(pluginPath));
       this.plugins[plugin] = module;
       await this.plugins[plugin].load(this.app);
-      console.log(`Loaded plugin: '${plugin}'`);
-    } catch (e) {
-      console.log(e);
-      console.log(`Failed to load '${plugin}'`);
+      logger.info(`Loaded plugin: ${plugin}`);
+    } catch (error) {
+      logger.error(`Failed to load '${plugin}': ${error}`);
       this.app.stop();
     }
   }

@@ -4,11 +4,11 @@ let count = 0;
 
 function load(app) {
 
-  console.log("counters loaded");
+  logger.info("counters loaded");
   try {
     count = +fs.readFileSync('./counter.txt');
   } catch (e) {
-    console.log('counter.txt not found. Starting from 0');
+    logger.info('counter.txt not found. Starting from 0');
   }
 
   app.server.use((req, res, next) => {
