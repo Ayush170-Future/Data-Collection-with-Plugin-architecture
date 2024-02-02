@@ -1,6 +1,7 @@
 const asyncHandler = require("express-async-handler");
 const Form = require("../models/formModel");
 const Question = require("../models/questionModel");
+const Response = require("../models/responseModel.js");
 const logger = require('../logger/index.js');
 
 const addResponseToAForm = asyncHandler(async (req, res, next) => {
@@ -79,7 +80,7 @@ const responseEventEmitter = asyncHandler((req, res) => {
     const dataCollectionApp = global.dataCollectionApp;
     dataCollectionApp.emit('ResponseGenerated', res.responseJSON, res.formId);
 
-    logger.info("responseEventEmitter - ResponseGenerated event emitted");
+    logger.info(`responseEventEmitter - ResponseGenerated event emitted ${process.pid}`);
     res.status(200).json({
         title: "OK",
         message: "Request successful",

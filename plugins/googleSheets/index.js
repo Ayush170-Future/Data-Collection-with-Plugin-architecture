@@ -70,7 +70,6 @@ async function load(app) {
             const headerRow = await sheet.getRows();
             // Getting the previous Headers for this Sheet and appending in the new Columns
             headerRow[0]._worksheet._headerValues.push(...questionsArray);
-            console.log(headerRow[0]._worksheet._headerValues)
             await sheet.setHeaderRow(headerRow[0]._worksheet._headerValues);
             logger.info(`Headers updated with the Added questions in Sheet ID ${sheet.sheetId} for Form ID ${formId}`);
         } catch (err) {

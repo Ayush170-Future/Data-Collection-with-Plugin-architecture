@@ -1075,3 +1075,1330 @@
 22:56:35 [32minfo[39m: Loaded plugin: googleSheets
 22:56:35 [32minfo[39m: Server running on port 5000
 22:56:40 [32minfo[39m: Stopping the server...
+01:27:49 [32minfo[39m: Logging Started!
+01:27:49 [32minfo[39m: Logging Started!
+01:27:50 [32minfo[39m: Metrics collector configured
+01:27:50 [32minfo[39m: Middleware configured
+01:27:50 [32minfo[39m: Routes configured
+01:27:50 [32minfo[39m: Error handling set up
+01:27:50 [32minfo[39m: Metrics Collection routes configured
+01:27:50 [32minfo[39m: DataCollectionApp initialized
+01:27:50 [32minfo[39m: Metrics collector configured
+01:27:50 [32minfo[39m: Middleware configured
+01:27:50 [32minfo[39m: Routes configured
+01:27:50 [32minfo[39m: Error handling set up
+01:27:50 [32minfo[39m: Metrics Collection routes configured
+01:27:50 [32minfo[39m: DataCollectionApp initialized
+01:27:50 [32minfo[39m: Connected to Mongoose
+01:27:50 [32minfo[39m: Connected to Mongoose
+01:27:50 [32minfo[39m: Loading plugin: googleSheets
+01:27:51 [32minfo[39m: Loaded plugin: googleSheets
+01:27:50 [32minfo[39m: Loading plugin: googleSheets
+01:27:51 [32minfo[39m: Loaded plugin: googleSheets
+01:27:51 [32minfo[39m: Server running on port 5000
+01:27:51 [32minfo[39m: Server running on port 5000
+01:29:31 [32minfo[39m: Inside Error Handler
+01:29:31 [31merror[39m: response.save is not a function
+01:29:31 [31merror[39m: TypeError: response.save is not a function
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:59:39
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+01:30:57 [32minfo[39m: Stopping the server...
+01:30:58 [32minfo[39m: Logging Started!
+01:30:58 [32minfo[39m: Metrics collector configured
+01:30:58 [32minfo[39m: Middleware configured
+01:30:58 [32minfo[39m: Routes configured
+01:30:58 [32minfo[39m: Error handling set up
+01:30:58 [32minfo[39m: Metrics Collection routes configured
+01:30:58 [32minfo[39m: DataCollectionApp initialized
+01:30:58 [32minfo[39m: Connected to Mongoose
+01:30:58 [32minfo[39m: Loading plugin: googleSheets
+01:30:58 [32minfo[39m: Loaded plugin: googleSheets
+01:30:58 [32minfo[39m: Server running on port 5000
+01:32:51 [32minfo[39m: Logging Started!
+01:32:51 [32minfo[39m: Logging Started!
+01:32:52 [32minfo[39m: Metrics collector configured
+01:32:52 [32minfo[39m: Middleware configured
+01:32:52 [32minfo[39m: Routes configured
+01:32:52 [32minfo[39m: Error handling set up
+01:32:52 [32minfo[39m: Metrics Collection routes configured
+01:32:52 [32minfo[39m: DataCollectionApp initialized
+01:32:52 [32minfo[39m: Metrics collector configured
+01:32:52 [32minfo[39m: Middleware configured
+01:32:52 [32minfo[39m: Routes configured
+01:32:52 [32minfo[39m: Error handling set up
+01:32:52 [32minfo[39m: Metrics Collection routes configured
+01:32:52 [32minfo[39m: DataCollectionApp initialized
+01:32:52 [32minfo[39m: Connected to Mongoose
+01:32:52 [32minfo[39m: Connected to Mongoose
+01:32:52 [32minfo[39m: Loading plugin: googleSheets
+01:32:52 [32minfo[39m: Loaded plugin: googleSheets
+01:32:52 [32minfo[39m: Loading plugin: googleSheets
+01:32:52 [32minfo[39m: Loaded plugin: googleSheets
+01:32:52 [32minfo[39m: Server running on port 5000
+01:32:52 [32minfo[39m: Server running on port 5000
+01:33:09 [32minfo[39m: addResponseToAForm - Responses added successfully
+01:33:09 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+01:33:09 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+01:33:10 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+01:33:28 [32minfo[39m: addResponseToAForm - Responses added successfully
+01:33:28 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+01:33:28 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+01:33:29 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+01:33:32 [32minfo[39m: addResponseToAForm - Responses added successfully
+01:33:32 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+01:33:32 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+01:33:33 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+01:33:59 [32minfo[39m: Stopping the server...
+01:33:59 [32minfo[39m: Stopping the server...
+02:33:58 [32minfo[39m: Logging Started!
+02:33:58 [32minfo[39m: Logging Started!
+02:33:58 [32minfo[39m: Metrics collector configured
+02:33:58 [32minfo[39m: Middleware configured
+02:33:58 [32minfo[39m: Routes configured
+02:33:58 [32minfo[39m: Error handling set up
+02:33:58 [32minfo[39m: Metrics Collection routes configured
+02:33:58 [32minfo[39m: DataCollectionApp initialized
+02:33:58 [32minfo[39m: Metrics collector configured
+02:33:58 [32minfo[39m: Middleware configured
+02:33:58 [32minfo[39m: Routes configured
+02:33:58 [32minfo[39m: Error handling set up
+02:33:58 [32minfo[39m: Metrics Collection routes configured
+02:33:58 [32minfo[39m: DataCollectionApp initialized
+02:33:58 [32minfo[39m: Connected to Mongoose
+02:33:58 [32minfo[39m: Loading plugin: googleSheets
+02:33:59 [32minfo[39m: Loaded plugin: googleSheets
+02:33:58 [32minfo[39m: Connected to Mongoose
+02:33:58 [32minfo[39m: Loading plugin: googleSheets
+02:33:59 [32minfo[39m: Loaded plugin: googleSheets
+02:33:59 [32minfo[39m: Server running on port 5000
+02:33:59 [32minfo[39m: Server running on port 5000
+02:34:12 [32minfo[39m: Stopping the server...
+02:34:12 [32minfo[39m: Stopping the server...
+02:34:19 [32minfo[39m: Logging Started!
+02:34:19 [32minfo[39m: Metrics collector configured
+02:34:19 [32minfo[39m: Middleware configured
+02:34:19 [32minfo[39m: Routes configured
+02:34:19 [32minfo[39m: Error handling set up
+02:34:19 [32minfo[39m: Metrics Collection routes configured
+02:34:19 [32minfo[39m: DataCollectionApp initialized
+02:34:19 [32minfo[39m: Connected to Mongoose
+02:34:19 [32minfo[39m: Loading plugin: googleSheets
+02:34:19 [32minfo[39m: Loaded plugin: googleSheets
+02:34:19 [32minfo[39m: Server running on port 5000
+02:34:23 [32minfo[39m: Stopping the server...
+02:34:23 [32minfo[39m: Stopping the express connection...
+02:34:23 [32minfo[39m: Server and MongoDB connection stopped
+02:34:23 [32minfo[39m: Stopping the server...
+02:35:30 [32minfo[39m: Logging Started!
+02:35:30 [32minfo[39m: Metrics collector configured
+02:35:30 [32minfo[39m: Middleware configured
+02:35:30 [32minfo[39m: Routes configured
+02:35:30 [32minfo[39m: Error handling set up
+02:35:30 [32minfo[39m: Metrics Collection routes configured
+02:35:30 [32minfo[39m: DataCollectionApp initialized
+02:35:30 [32minfo[39m: Logging Started!
+02:35:30 [32minfo[39m: Metrics collector configured
+02:35:30 [32minfo[39m: Middleware configured
+02:35:30 [32minfo[39m: Routes configured
+02:35:30 [32minfo[39m: Error handling set up
+02:35:30 [32minfo[39m: Metrics Collection routes configured
+02:35:30 [32minfo[39m: DataCollectionApp initialized
+02:35:30 [32minfo[39m: Connected to Mongoose
+02:35:30 [32minfo[39m: Connected to Mongoose
+02:35:30 [32minfo[39m: Loading plugin: googleSheets
+02:35:30 [32minfo[39m: Loading plugin: googleSheets
+02:35:30 [32minfo[39m: Loaded plugin: googleSheets
+02:35:30 [32minfo[39m: Loaded plugin: googleSheets
+02:35:30 [32minfo[39m: Server running on port 5000
+02:35:30 [32minfo[39m: Server running on port 5000
+02:36:04 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:04 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:04 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:05 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:11 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:11 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:11 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:11 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:11 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:11 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:12 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:12 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:12 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:12 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:12 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:12 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:12 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:12 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:12 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:12 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:12 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:12 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:12 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:12 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:12 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:12 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:12 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:12 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:12 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:12 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:12 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:13 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:13 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:13 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:13 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:13 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:13 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:13 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:13 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:13 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:13 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:13 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:13 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:13 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:13 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:13 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:13 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:13 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:13 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:13 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:13 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:13 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:13 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:13 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:14 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:14 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:14 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:14 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:14 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:14 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:14 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:14 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:14 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:14 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:14 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:14 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:14 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:14 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:14 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:14 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:14 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:14 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:14 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:14 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:14 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:14 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:14 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:14 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:14 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:15 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:15 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:15 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:15 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:15 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:15 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:15 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:15 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:15 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:15 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:15 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:36:15 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted
+02:36:15 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:15 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:15 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:15 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:15 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:16 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:16 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:36:16 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:36:16 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:37:41 [32minfo[39m: Stopping the server...
+02:37:48 [32minfo[39m: Logging Started!
+02:37:48 [32minfo[39m: Metrics collector configured
+02:37:48 [32minfo[39m: Middleware configured
+02:37:48 [32minfo[39m: Routes configured
+02:37:48 [32minfo[39m: Error handling set up
+02:37:48 [32minfo[39m: Metrics Collection routes configured
+02:37:48 [32minfo[39m: DataCollectionApp initialized
+02:37:48 [32minfo[39m: Logging Started!
+02:37:48 [32minfo[39m: Metrics collector configured
+02:37:48 [32minfo[39m: Middleware configured
+02:37:48 [32minfo[39m: Routes configured
+02:37:48 [32minfo[39m: Error handling set up
+02:37:48 [32minfo[39m: Metrics Collection routes configured
+02:37:48 [32minfo[39m: DataCollectionApp initialized
+02:37:48 [32minfo[39m: Connected to Mongoose
+02:37:48 [32minfo[39m: Connected to Mongoose
+02:37:48 [32minfo[39m: Loading plugin: googleSheets
+02:37:49 [32minfo[39m: Loaded plugin: googleSheets
+02:37:48 [32minfo[39m: Loading plugin: googleSheets
+02:37:49 [32minfo[39m: Loaded plugin: googleSheets
+02:37:49 [32minfo[39m: Server running on port 5000
+02:37:49 [32minfo[39m: Server running on port 5000
+02:37:57 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:37:57 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted ${process.pid}
+02:37:57 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:37:57 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted ${process.pid}
+02:37:57 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:37:57 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted ${process.pid}
+02:37:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:37:58 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:37:58 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted ${process.pid}
+02:37:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:37:58 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:37:58 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted ${process.pid}
+02:37:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:37:58 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:37:58 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted ${process.pid}
+02:37:58 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:37:58 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted ${process.pid}
+02:37:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:37:58 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:37:58 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted ${process.pid}
+02:37:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:37:58 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:37:58 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:37:58 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:37:58 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted ${process.pid}
+02:37:59 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:37:59 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:37:59 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:37:59 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:37:59 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted ${process.pid}
+02:37:59 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:37:59 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:37:59 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:37:59 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:37:59 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:37:59 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:37:59 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:37:59 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:00 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:00 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:14 [32minfo[39m: Stopping the server...
+02:38:14 [32minfo[39m: Stopping the server...
+02:38:20 [32minfo[39m: Logging Started!
+02:38:20 [32minfo[39m: Metrics collector configured
+02:38:20 [32minfo[39m: Middleware configured
+02:38:20 [32minfo[39m: Routes configured
+02:38:20 [32minfo[39m: Error handling set up
+02:38:20 [32minfo[39m: Metrics Collection routes configured
+02:38:20 [32minfo[39m: DataCollectionApp initialized
+02:38:20 [32minfo[39m: Logging Started!
+02:38:20 [32minfo[39m: Metrics collector configured
+02:38:20 [32minfo[39m: Middleware configured
+02:38:20 [32minfo[39m: Routes configured
+02:38:20 [32minfo[39m: Error handling set up
+02:38:20 [32minfo[39m: Metrics Collection routes configured
+02:38:20 [32minfo[39m: DataCollectionApp initialized
+02:38:20 [32minfo[39m: Connected to Mongoose
+02:38:20 [32minfo[39m: Connected to Mongoose
+02:38:20 [32minfo[39m: Loading plugin: googleSheets
+02:38:21 [32minfo[39m: Loaded plugin: googleSheets
+02:38:21 [32minfo[39m: Server running on port 5000
+02:38:20 [32minfo[39m: Loading plugin: googleSheets
+02:38:21 [32minfo[39m: Loaded plugin: googleSheets
+02:38:21 [32minfo[39m: Server running on port 5000
+02:38:27 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:27 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:27 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:28 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:45 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:45 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:45 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:45 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:45 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:45 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:45 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:45 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:45 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:45 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:45 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:45 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:46 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:46 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:46 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:46 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:46 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:46 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:46 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:46 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:46 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:46 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:46 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:46 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:46 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:46 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:46 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:46 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:46 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:46 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:46 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:46 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:46 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:46 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:46 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:46 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:46 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:47 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:47 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:47 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:47 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:47 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:47 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:47 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:50 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:50 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:50 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:50 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:51 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:51 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:51 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:51 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:51 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:51 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:51 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:51 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:51 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:51 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:51 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:51 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:51 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:51 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:51 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:51 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:51 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:51 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:51 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:51 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:51 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:52 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:52 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:52 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:52 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:52 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:52 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:52 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:52 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:52 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:52 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:52 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:52 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:52 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:52 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:52 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:52 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:52 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:52 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:52 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:52 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:52 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:52 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:52 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:52 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:52 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:52 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:53 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:53 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:53 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:53 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:53 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:53 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:53 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:53 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:53 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:53 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:53 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:53 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:53 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:53 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:53 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:53 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:53 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:53 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:53 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:53 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:53 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:53 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:53 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:54 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:54 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:54 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:54 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:54 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:54 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:54 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:54 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:54 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:54 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:54 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:54 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:54 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:54 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:54 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:54 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:54 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:54 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:54 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:54 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:54 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:54 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:54 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:54 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:55 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:55 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:55 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:55 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:55 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:55 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:55 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:55 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:55 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:38:55 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 840
+02:38:55 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:55 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:55 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:55 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:55 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:38:55 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:55 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:38:56 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:05 [32minfo[39m: Stopping the server...
+02:39:05 [32minfo[39m: Stopping the server...
+02:39:30 [32minfo[39m: Logging Started!
+02:39:30 [32minfo[39m: Metrics collector configured
+02:39:30 [32minfo[39m: Middleware configured
+02:39:30 [32minfo[39m: Routes configured
+02:39:30 [32minfo[39m: Error handling set up
+02:39:30 [32minfo[39m: Metrics Collection routes configured
+02:39:30 [32minfo[39m: DataCollectionApp initialized
+02:39:30 [32minfo[39m: Connected to Mongoose
+02:39:30 [32minfo[39m: Logging Started!
+02:39:30 [32minfo[39m: Metrics collector configured
+02:39:30 [32minfo[39m: Middleware configured
+02:39:30 [32minfo[39m: Routes configured
+02:39:30 [32minfo[39m: Error handling set up
+02:39:30 [32minfo[39m: Metrics Collection routes configured
+02:39:30 [32minfo[39m: DataCollectionApp initialized
+02:39:30 [32minfo[39m: Connected to Mongoose
+02:39:30 [32minfo[39m: Logging Started!
+02:39:30 [32minfo[39m: Metrics collector configured
+02:39:30 [32minfo[39m: Middleware configured
+02:39:30 [32minfo[39m: Routes configured
+02:39:30 [32minfo[39m: Error handling set up
+02:39:30 [32minfo[39m: Metrics Collection routes configured
+02:39:30 [32minfo[39m: DataCollectionApp initialized
+02:39:30 [32minfo[39m: Logging Started!
+02:39:30 [32minfo[39m: Metrics collector configured
+02:39:30 [32minfo[39m: Middleware configured
+02:39:30 [32minfo[39m: Routes configured
+02:39:30 [32minfo[39m: Error handling set up
+02:39:30 [32minfo[39m: Metrics Collection routes configured
+02:39:30 [32minfo[39m: DataCollectionApp initialized
+02:39:30 [32minfo[39m: Logging Started!
+02:39:30 [32minfo[39m: Logging Started!
+02:39:30 [32minfo[39m: Metrics collector configured
+02:39:30 [32minfo[39m: Middleware configured
+02:39:30 [32minfo[39m: Routes configured
+02:39:30 [32minfo[39m: Error handling set up
+02:39:30 [32minfo[39m: Metrics Collection routes configured
+02:39:30 [32minfo[39m: DataCollectionApp initialized
+02:39:30 [32minfo[39m: Metrics collector configured
+02:39:30 [32minfo[39m: Middleware configured
+02:39:30 [32minfo[39m: Routes configured
+02:39:30 [32minfo[39m: Error handling set up
+02:39:30 [32minfo[39m: Metrics Collection routes configured
+02:39:30 [32minfo[39m: DataCollectionApp initialized
+02:39:30 [32minfo[39m: Connected to Mongoose
+02:39:30 [32minfo[39m: Connected to Mongoose
+02:39:30 [32minfo[39m: Logging Started!
+02:39:30 [32minfo[39m: Metrics collector configured
+02:39:30 [32minfo[39m: Middleware configured
+02:39:30 [32minfo[39m: Routes configured
+02:39:30 [32minfo[39m: Error handling set up
+02:39:30 [32minfo[39m: Metrics Collection routes configured
+02:39:30 [32minfo[39m: DataCollectionApp initialized
+02:39:30 [32minfo[39m: Connected to Mongoose
+02:39:30 [32minfo[39m: Connected to Mongoose
+02:39:30 [32minfo[39m: Connected to Mongoose
+02:39:30 [32minfo[39m: Logging Started!
+02:39:30 [32minfo[39m: Metrics collector configured
+02:39:30 [32minfo[39m: Middleware configured
+02:39:30 [32minfo[39m: Routes configured
+02:39:30 [32minfo[39m: Error handling set up
+02:39:30 [32minfo[39m: Metrics Collection routes configured
+02:39:30 [32minfo[39m: DataCollectionApp initialized
+02:39:30 [32minfo[39m: Connected to Mongoose
+02:39:30 [32minfo[39m: Loading plugin: googleSheets
+02:39:31 [32minfo[39m: Loaded plugin: googleSheets
+02:39:31 [32minfo[39m: Server running on port 5000
+02:39:30 [32minfo[39m: Loading plugin: googleSheets
+02:39:31 [32minfo[39m: Loaded plugin: googleSheets
+02:39:30 [32minfo[39m: Loading plugin: googleSheets
+02:39:31 [32minfo[39m: Loaded plugin: googleSheets
+02:39:31 [32minfo[39m: Server running on port 5000
+02:39:30 [32minfo[39m: Loading plugin: googleSheets
+02:39:31 [32minfo[39m: Loaded plugin: googleSheets
+02:39:31 [32minfo[39m: Server running on port 5000
+02:39:31 [32minfo[39m: Server running on port 5000
+02:39:30 [32minfo[39m: Loading plugin: googleSheets
+02:39:31 [32minfo[39m: Loaded plugin: googleSheets
+02:39:31 [32minfo[39m: Server running on port 5000
+02:39:30 [32minfo[39m: Loading plugin: googleSheets
+02:39:31 [32minfo[39m: Loaded plugin: googleSheets
+02:39:31 [32minfo[39m: Server running on port 5000
+02:39:30 [32minfo[39m: Loading plugin: googleSheets
+02:39:31 [32minfo[39m: Loaded plugin: googleSheets
+02:39:32 [32minfo[39m: Server running on port 5000
+02:39:30 [32minfo[39m: Loading plugin: googleSheets
+02:39:32 [32minfo[39m: Loaded plugin: googleSheets
+02:39:32 [32minfo[39m: Server running on port 5000
+02:39:48 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:48 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:49 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:49 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:49 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:49 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:49 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:49 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:49 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:49 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:49 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:49 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:49 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:49 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:49 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:49 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:49 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:49 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:50 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:50 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:50 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:50 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:50 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:50 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:50 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:50 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:50 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:50 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:50 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:50 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:50 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:51 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:55 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:55 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:55 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:55 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:55 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:55 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:55 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:55 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:55 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:55 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:56 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:56 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:56 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:56 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:56 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:56 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:56 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:56 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:56 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:56 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:56 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:56 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:56 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:56 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:56 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:56 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:56 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:56 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:56 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:56 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:56 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:56 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:57 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:57 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:57 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:57 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:57 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:57 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:57 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:57 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:57 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:57 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:57 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:57 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:57 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:57 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:57 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:57 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:57 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:57 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:57 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:57 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:57 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:57 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:58 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:58 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:58 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:58 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:58 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:58 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:58 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:58 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:58 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:58 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:58 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:58 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:58 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:58 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:58 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:58 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:58 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:58 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:58 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:59 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:59 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:59 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:59 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:59 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:59 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:59 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:59 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:59 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:59 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:59 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:59 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:59 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:59 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:59 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:59 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:59 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:59 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:59 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:39:59 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:59 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:39:59 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:39:59 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:39:59 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:00 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:00 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:00 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:00 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:00 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:00 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:00 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:00 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:00 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:00 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:00 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:00 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:00 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:00 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:00 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:00 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:00 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:00 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:00 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:00 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:00 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:00 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:00 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:01 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:01 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:01 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:01 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:01 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:01 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:01 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:01 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:01 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:01 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:01 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:01 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:01 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:01 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:01 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:01 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:01 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:01 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:01 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:01 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:01 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:02 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:02 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:02 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:02 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:02 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:02 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:02 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:02 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:02 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:02 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:02 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:02 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:02 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:02 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:02 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:02 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:02 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:02 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:02 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:02 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:02 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:02 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:02 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:02 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:02 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:02 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:03 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:03 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:03 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:03 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:03 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:03 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:03 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:03 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:03 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:03 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:03 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:03 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:03 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:03 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:03 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:03 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:03 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:03 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:03 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:03 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:03 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:03 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:03 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:03 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:04 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:04 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:04 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:04 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:04 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:04 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:04 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:04 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:04 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:04 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:04 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:04 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:04 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:04 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:04 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:04 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:04 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:04 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:04 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:04 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:04 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:04 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:04 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:05 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:05 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:05 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:05 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:05 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:05 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:05 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:05 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:05 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:05 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:05 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:05 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:05 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:05 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:05 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:05 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:05 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:05 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:05 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:05 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:05 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:05 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:05 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:06 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:06 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:06 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:06 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:06 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:06 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:06 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:06 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:06 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:06 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:06 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:06 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:06 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:06 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:07 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:07 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:16 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:16 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:17 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:17 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:17 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:17 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:17 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:17 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:18 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:18 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:18 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:18 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:18 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:18 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:18 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:18 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:18 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:18 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:18 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:18 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:18 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:18 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:18 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:18 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:18 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:18 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:18 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:18 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:19 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:19 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:19 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:19 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:19 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:19 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:19 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:19 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:19 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:19 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:19 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:19 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:19 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:19 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:19 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:19 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:19 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:19 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:19 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:19 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:19 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:19 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:19 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:19 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:20 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:20 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:20 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:20 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:20 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:20 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:20 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:20 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:20 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+02:40:20 [31merror[39m: Google API error - [429] Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:902535152138'.
+02:40:20 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:20 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:20 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:20 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:20 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:20 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:20 [31merror[39m: Google API error - [429] Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:902535152138'.
+02:40:20 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:20 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:20 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:20 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:20 [31merror[39m: Google API error - [429] Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:902535152138'.
+02:40:20 [31merror[39m: Google API error - [429] Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:902535152138'.
+02:40:21 [32minfo[39m: Row Added to Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+02:40:21 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:21 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 17648
+02:40:21 [32minfo[39m: Stopping the server...
+02:40:21 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:21 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 9512
+02:40:21 [32minfo[39m: addResponseToAForm - Responses added successfully
+02:40:21 [32minfo[39m: responseEventEmitter - ResponseGenerated event emitted 9512
+02:40:22 [31merror[39m: Google API error - [429] Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:902535152138'.
+02:40:22 [32minfo[39m: Logging Started!
+02:40:22 [32minfo[39m: Metrics collector configured
+02:40:22 [32minfo[39m: Middleware configured
+02:40:22 [32minfo[39m: Routes configured
+02:40:22 [32minfo[39m: Error handling set up
+02:40:22 [32minfo[39m: Metrics Collection routes configured
+02:40:22 [32minfo[39m: DataCollectionApp initialized
+02:40:22 [32minfo[39m: Connected to Mongoose
+02:40:22 [31merror[39m: Google API error - [429] Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:902535152138'.
+02:40:22 [32minfo[39m: Loading plugin: googleSheets
+02:40:22 [32minfo[39m: Loaded plugin: googleSheets
+02:40:22 [32minfo[39m: Server running on port 5000
+02:40:22 [32minfo[39m: Stopping the server...
+02:40:23 [32minfo[39m: Stopping the server...
+02:40:23 [32minfo[39m: Logging Started!
+02:40:23 [32minfo[39m: Metrics collector configured
+02:40:23 [32minfo[39m: Middleware configured
+02:40:24 [32minfo[39m: Routes configured
+02:40:24 [32minfo[39m: Error handling set up
+02:40:24 [32minfo[39m: Metrics Collection routes configured
+02:40:24 [32minfo[39m: DataCollectionApp initialized
+02:40:24 [32minfo[39m: Connected to Mongoose
+02:40:24 [32minfo[39m: Loading plugin: googleSheets
+02:40:24 [32minfo[39m: Loaded plugin: googleSheets
+02:40:24 [32minfo[39m: Server running on port 5000
+02:40:24 [32minfo[39m: Logging Started!
+02:40:24 [32minfo[39m: Metrics collector configured
+02:40:24 [32minfo[39m: Middleware configured
+02:40:24 [32minfo[39m: Routes configured
+02:40:24 [32minfo[39m: Error handling set up
+02:40:24 [32minfo[39m: Metrics Collection routes configured
+02:40:24 [32minfo[39m: DataCollectionApp initialized
+02:40:24 [32minfo[39m: Connected to Mongoose
+02:40:24 [32minfo[39m: Loading plugin: googleSheets
+02:40:24 [32minfo[39m: Loaded plugin: googleSheets
+02:40:24 [32minfo[39m: Server running on port 5000
+02:40:24 [32minfo[39m: Stopping the server...
+02:40:25 [32minfo[39m: Stopping the server...
+02:40:26 [32minfo[39m: Logging Started!
+02:40:26 [32minfo[39m: Metrics collector configured
+02:40:26 [32minfo[39m: Middleware configured
+02:40:27 [32minfo[39m: Routes configured
+02:40:27 [32minfo[39m: Error handling set up
+02:40:27 [32minfo[39m: Metrics Collection routes configured
+02:40:27 [32minfo[39m: DataCollectionApp initialized
+02:40:27 [32minfo[39m: Connected to Mongoose
+02:40:27 [32minfo[39m: Loading plugin: googleSheets
+02:40:27 [32minfo[39m: Loaded plugin: googleSheets
+02:40:27 [32minfo[39m: Server running on port 5000
+02:40:27 [32minfo[39m: Logging Started!
+02:40:27 [32minfo[39m: Metrics collector configured
+02:40:27 [32minfo[39m: Middleware configured
+02:40:27 [32minfo[39m: Routes configured
+02:40:27 [32minfo[39m: Error handling set up
+02:40:27 [32minfo[39m: Metrics Collection routes configured
+02:40:27 [32minfo[39m: DataCollectionApp initialized
+02:40:27 [32minfo[39m: Connected to Mongoose
+02:40:27 [32minfo[39m: Loading plugin: googleSheets
+02:40:27 [32minfo[39m: Loaded plugin: googleSheets
+02:40:27 [32minfo[39m: Server running on port 5000
+02:40:28 [32minfo[39m: Stopping the server...
+02:40:28 [32minfo[39m: Stopping the server...
+02:40:29 [32minfo[39m: Logging Started!
+02:40:29 [32minfo[39m: Metrics collector configured
+02:40:29 [32minfo[39m: Middleware configured
+02:40:29 [32minfo[39m: Routes configured
+02:40:29 [32minfo[39m: Error handling set up
+02:40:29 [32minfo[39m: Metrics Collection routes configured
+02:40:29 [32minfo[39m: DataCollectionApp initialized
+02:40:29 [32minfo[39m: Logging Started!
+02:40:29 [32minfo[39m: Metrics collector configured
+02:40:29 [32minfo[39m: Middleware configured
+02:40:29 [32minfo[39m: Routes configured
+02:40:29 [32minfo[39m: Error handling set up
+02:40:29 [32minfo[39m: Metrics Collection routes configured
+02:40:29 [32minfo[39m: DataCollectionApp initialized
+02:40:29 [32minfo[39m: Connected to Mongoose
+02:40:29 [32minfo[39m: Connected to Mongoose
+02:40:29 [32minfo[39m: Loading plugin: googleSheets
+02:40:30 [32minfo[39m: Loaded plugin: googleSheets
+02:40:29 [32minfo[39m: Loading plugin: googleSheets
+02:40:30 [32minfo[39m: Loaded plugin: googleSheets
+02:40:30 [32minfo[39m: Server running on port 5000
+02:40:30 [32minfo[39m: Server running on port 5000
+02:40:30 [32minfo[39m: Stopping the server...
+02:40:30 [32minfo[39m: Stopping the server...
+02:40:32 [32minfo[39m: Logging Started!
+02:40:32 [32minfo[39m: Metrics collector configured
+02:40:32 [32minfo[39m: Middleware configured
+02:40:32 [32minfo[39m: Routes configured
+02:40:32 [32minfo[39m: Error handling set up
+02:40:32 [32minfo[39m: Metrics Collection routes configured
+02:40:32 [32minfo[39m: DataCollectionApp initialized
+02:40:32 [32minfo[39m: Logging Started!
+02:40:32 [32minfo[39m: Metrics collector configured
+02:40:32 [32minfo[39m: Middleware configured
+02:40:32 [32minfo[39m: Routes configured
+02:40:32 [32minfo[39m: Error handling set up
+02:40:32 [32minfo[39m: Metrics Collection routes configured
+02:40:32 [32minfo[39m: DataCollectionApp initialized
+02:40:32 [32minfo[39m: Connected to Mongoose
+02:40:32 [32minfo[39m: Connected to Mongoose
+02:40:32 [32minfo[39m: Loading plugin: googleSheets
+02:40:32 [32minfo[39m: Loaded plugin: googleSheets
+02:40:32 [32minfo[39m: Server running on port 5000
+02:40:32 [32minfo[39m: Loading plugin: googleSheets
+02:40:32 [32minfo[39m: Loaded plugin: googleSheets
+02:40:32 [32minfo[39m: Server running on port 5000
+02:40:33 [32minfo[39m: Stopping the server...
+02:40:33 [32minfo[39m: Stopping the server...
+02:40:34 [32minfo[39m: Logging Started!
+02:40:34 [32minfo[39m: Metrics collector configured
+02:40:34 [32minfo[39m: Middleware configured
+02:40:34 [32minfo[39m: Routes configured
+02:40:34 [32minfo[39m: Error handling set up
+02:40:34 [32minfo[39m: Metrics Collection routes configured
+02:40:34 [32minfo[39m: DataCollectionApp initialized
+02:40:34 [32minfo[39m: Connected to Mongoose
+02:40:34 [32minfo[39m: Logging Started!
+02:40:34 [32minfo[39m: Metrics collector configured
+02:40:34 [32minfo[39m: Middleware configured
+02:40:34 [32minfo[39m: Routes configured
+02:40:34 [32minfo[39m: Error handling set up
+02:40:34 [32minfo[39m: Metrics Collection routes configured
+02:40:34 [32minfo[39m: DataCollectionApp initialized
+02:40:34 [32minfo[39m: Connected to Mongoose
+02:40:34 [32minfo[39m: Loading plugin: googleSheets
+02:40:35 [32minfo[39m: Loaded plugin: googleSheets
+02:40:35 [32minfo[39m: Server running on port 5000
+02:40:34 [32minfo[39m: Loading plugin: googleSheets
+02:40:35 [32minfo[39m: Loaded plugin: googleSheets
+02:40:35 [32minfo[39m: Server running on port 5000
+02:40:35 [32minfo[39m: Stopping the server...
+02:40:35 [32minfo[39m: Stopping the server...
+02:40:36 [32minfo[39m: Logging Started!
+02:40:37 [32minfo[39m: Metrics collector configured
+02:40:37 [32minfo[39m: Middleware configured
+02:40:37 [32minfo[39m: Routes configured
+02:40:37 [32minfo[39m: Error handling set up
+02:40:37 [32minfo[39m: Metrics Collection routes configured
+02:40:37 [32minfo[39m: DataCollectionApp initialized
+02:40:36 [32minfo[39m: Logging Started!
+02:40:37 [32minfo[39m: Metrics collector configured
+02:40:37 [32minfo[39m: Middleware configured
+02:40:37 [32minfo[39m: Routes configured
+02:40:37 [32minfo[39m: Error handling set up
+02:40:37 [32minfo[39m: Metrics Collection routes configured
+02:40:37 [32minfo[39m: DataCollectionApp initialized
+02:40:37 [32minfo[39m: Connected to Mongoose
+02:40:37 [32minfo[39m: Connected to Mongoose
+02:40:37 [32minfo[39m: Loading plugin: googleSheets
+02:40:37 [32minfo[39m: Loaded plugin: googleSheets
+02:40:37 [32minfo[39m: Server running on port 5000
+02:40:37 [32minfo[39m: Loading plugin: googleSheets
+02:40:37 [32minfo[39m: Loaded plugin: googleSheets
+02:40:37 [32minfo[39m: Server running on port 5000
+02:40:38 [32minfo[39m: Stopping the server...
+02:40:38 [32minfo[39m: Stopping the server...
+02:40:39 [32minfo[39m: Logging Started!
+02:40:39 [32minfo[39m: Metrics collector configured
+02:40:39 [32minfo[39m: Middleware configured
+02:40:39 [32minfo[39m: Routes configured
+02:40:39 [32minfo[39m: Error handling set up
+02:40:39 [32minfo[39m: Metrics Collection routes configured
+02:40:39 [32minfo[39m: DataCollectionApp initialized
+02:40:39 [32minfo[39m: Logging Started!
+02:40:39 [32minfo[39m: Metrics collector configured
+02:40:39 [32minfo[39m: Middleware configured
+02:40:39 [32minfo[39m: Routes configured
+02:40:39 [32minfo[39m: Error handling set up
+02:40:39 [32minfo[39m: Metrics Collection routes configured
+02:40:39 [32minfo[39m: DataCollectionApp initialized
+02:40:39 [32minfo[39m: Connected to Mongoose
+02:40:39 [32minfo[39m: Connected to Mongoose
+02:40:39 [32minfo[39m: Loading plugin: googleSheets
+02:40:40 [32minfo[39m: Loaded plugin: googleSheets
+02:40:39 [32minfo[39m: Loading plugin: googleSheets
+02:40:40 [32minfo[39m: Loaded plugin: googleSheets
+02:40:40 [32minfo[39m: Server running on port 5000
+02:40:40 [32minfo[39m: Server running on port 5000
+02:40:40 [32minfo[39m: Stopping the server...
+02:40:40 [32minfo[39m: Stopping the server...
+02:40:42 [32minfo[39m: Logging Started!
+02:40:42 [32minfo[39m: Metrics collector configured
+02:40:42 [32minfo[39m: Middleware configured
+02:40:42 [32minfo[39m: Routes configured
+02:40:42 [32minfo[39m: Error handling set up
+02:40:42 [32minfo[39m: Metrics Collection routes configured
+02:40:42 [32minfo[39m: DataCollectionApp initialized
+02:40:42 [32minfo[39m: Logging Started!
+02:40:42 [32minfo[39m: Metrics collector configured
+02:40:42 [32minfo[39m: Middleware configured
+02:40:42 [32minfo[39m: Routes configured
+02:40:42 [32minfo[39m: Error handling set up
+02:40:42 [32minfo[39m: Metrics Collection routes configured
+02:40:42 [32minfo[39m: DataCollectionApp initialized
+02:40:42 [32minfo[39m: Connected to Mongoose
+02:40:42 [32minfo[39m: Connected to Mongoose
+02:40:42 [32minfo[39m: Loading plugin: googleSheets
+02:40:42 [32minfo[39m: Loaded plugin: googleSheets
+02:40:42 [32minfo[39m: Server running on port 5000
+02:40:42 [32minfo[39m: Loading plugin: googleSheets
+02:40:42 [32minfo[39m: Loaded plugin: googleSheets
+02:40:42 [32minfo[39m: Server running on port 5000
+02:40:43 [32minfo[39m: Stopping the server...
+02:40:43 [32minfo[39m: Stopping the server...
+02:40:44 [32minfo[39m: Logging Started!
+02:40:44 [32minfo[39m: Metrics collector configured
+02:40:44 [32minfo[39m: Middleware configured
+02:40:44 [32minfo[39m: Routes configured
+02:40:44 [32minfo[39m: Error handling set up
+02:40:44 [32minfo[39m: Metrics Collection routes configured
+02:40:44 [32minfo[39m: DataCollectionApp initialized
+02:40:44 [32minfo[39m: Logging Started!
+02:40:44 [32minfo[39m: Metrics collector configured
+02:40:44 [32minfo[39m: Middleware configured
+02:40:44 [32minfo[39m: Routes configured
+02:40:44 [32minfo[39m: Error handling set up
+02:40:44 [32minfo[39m: Metrics Collection routes configured
+02:40:44 [32minfo[39m: DataCollectionApp initialized
+02:40:44 [32minfo[39m: Connected to Mongoose
+02:40:44 [32minfo[39m: Connected to Mongoose
+02:40:44 [32minfo[39m: Loading plugin: googleSheets
+02:40:44 [32minfo[39m: Loaded plugin: googleSheets
+02:40:44 [32minfo[39m: Loading plugin: googleSheets
+02:40:44 [32minfo[39m: Loaded plugin: googleSheets
+02:40:44 [32minfo[39m: Server running on port 5000
+02:40:44 [32minfo[39m: Server running on port 5000
+02:40:45 [32minfo[39m: Stopping the server...
+02:40:45 [32minfo[39m: Stopping the server...
+02:40:47 [32minfo[39m: Logging Started!
+02:40:47 [32minfo[39m: Metrics collector configured
+02:40:47 [32minfo[39m: Middleware configured
+02:40:47 [32minfo[39m: Routes configured
+02:40:47 [32minfo[39m: Error handling set up
+02:40:47 [32minfo[39m: Metrics Collection routes configured
+02:40:47 [32minfo[39m: DataCollectionApp initialized
+02:40:47 [32minfo[39m: Logging Started!
+02:40:47 [32minfo[39m: Metrics collector configured
+02:40:47 [32minfo[39m: Middleware configured
+02:40:47 [32minfo[39m: Routes configured
+02:40:47 [32minfo[39m: Error handling set up
+02:40:47 [32minfo[39m: Metrics Collection routes configured
+02:40:47 [32minfo[39m: DataCollectionApp initialized
+02:40:47 [32minfo[39m: Connected to Mongoose
+02:40:47 [32minfo[39m: Connected to Mongoose
+02:40:47 [32minfo[39m: Loading plugin: googleSheets
+02:40:47 [32minfo[39m: Loaded plugin: googleSheets
+02:40:47 [32minfo[39m: Server running on port 5000
+02:40:47 [32minfo[39m: Loading plugin: googleSheets
+02:40:47 [32minfo[39m: Loaded plugin: googleSheets
+02:40:47 [32minfo[39m: Server running on port 5000
+02:40:48 [32minfo[39m: Stopping the server...
+02:40:48 [32minfo[39m: Stopping the server...
+02:40:49 [32minfo[39m: Logging Started!
+02:40:49 [32minfo[39m: Metrics collector configured
+02:40:49 [32minfo[39m: Middleware configured
+02:40:49 [32minfo[39m: Routes configured
+02:40:49 [32minfo[39m: Error handling set up
+02:40:49 [32minfo[39m: Metrics Collection routes configured
+02:40:49 [32minfo[39m: DataCollectionApp initialized
+02:40:49 [32minfo[39m: Connected to Mongoose
+02:40:49 [32minfo[39m: Logging Started!
+02:40:49 [32minfo[39m: Metrics collector configured
+02:40:49 [32minfo[39m: Middleware configured
+02:40:49 [32minfo[39m: Routes configured
+02:40:49 [32minfo[39m: Error handling set up
+02:40:49 [32minfo[39m: Metrics Collection routes configured
+02:40:49 [32minfo[39m: DataCollectionApp initialized
+02:40:49 [32minfo[39m: Connected to Mongoose
+02:40:49 [32minfo[39m: Loading plugin: googleSheets
+02:40:50 [32minfo[39m: Loaded plugin: googleSheets
+02:40:50 [32minfo[39m: Server running on port 5000
+02:40:49 [32minfo[39m: Loading plugin: googleSheets
+02:40:50 [32minfo[39m: Loaded plugin: googleSheets
+02:40:50 [32minfo[39m: Server running on port 5000
+02:40:50 [32minfo[39m: Stopping the server...
+02:40:50 [32minfo[39m: Stopping the server...
+02:40:52 [32minfo[39m: Logging Started!
+02:40:52 [32minfo[39m: Metrics collector configured
+02:40:52 [32minfo[39m: Middleware configured
+02:40:52 [32minfo[39m: Routes configured
+02:40:52 [32minfo[39m: Error handling set up
+02:40:52 [32minfo[39m: Metrics Collection routes configured
+02:40:52 [32minfo[39m: DataCollectionApp initialized
+02:40:52 [32minfo[39m: Logging Started!
+02:40:52 [32minfo[39m: Metrics collector configured
+02:40:52 [32minfo[39m: Middleware configured
+02:40:52 [32minfo[39m: Routes configured
+02:40:52 [32minfo[39m: Error handling set up
+02:40:52 [32minfo[39m: Metrics Collection routes configured
+02:40:52 [32minfo[39m: DataCollectionApp initialized
+02:40:52 [32minfo[39m: Connected to Mongoose
+02:40:52 [32minfo[39m: Connected to Mongoose
+02:40:52 [32minfo[39m: Loading plugin: googleSheets
+02:40:52 [32minfo[39m: Loaded plugin: googleSheets
+02:40:52 [32minfo[39m: Server running on port 5000
+02:40:52 [32minfo[39m: Loading plugin: googleSheets
+02:40:52 [32minfo[39m: Loaded plugin: googleSheets
+02:40:52 [32minfo[39m: Server running on port 5000
+02:40:53 [32minfo[39m: Stopping the server...
+02:40:53 [32minfo[39m: Stopping the server...
+02:40:55 [32minfo[39m: Logging Started!
+02:40:55 [32minfo[39m: Metrics collector configured
+02:40:55 [32minfo[39m: Middleware configured
+02:40:55 [32minfo[39m: Routes configured
+02:40:55 [32minfo[39m: Error handling set up
+02:40:55 [32minfo[39m: Metrics Collection routes configured
+02:40:55 [32minfo[39m: DataCollectionApp initialized
+02:40:55 [32minfo[39m: Connected to Mongoose
+02:40:55 [32minfo[39m: Logging Started!
+02:40:55 [32minfo[39m: Metrics collector configured
+02:40:55 [32minfo[39m: Middleware configured
+02:40:55 [32minfo[39m: Routes configured
+02:40:55 [32minfo[39m: Error handling set up
+02:40:55 [32minfo[39m: Metrics Collection routes configured
+02:40:55 [32minfo[39m: DataCollectionApp initialized
+02:40:55 [32minfo[39m: Connected to Mongoose
+02:40:55 [32minfo[39m: Loading plugin: googleSheets
+02:40:55 [32minfo[39m: Loaded plugin: googleSheets
+02:40:55 [32minfo[39m: Server running on port 5000
+02:40:55 [32minfo[39m: Loading plugin: googleSheets
+02:40:56 [32minfo[39m: Loaded plugin: googleSheets
+02:40:56 [32minfo[39m: Server running on port 5000
+02:40:56 [32minfo[39m: Stopping the server...
+02:40:56 [32minfo[39m: Stopping the server...
+02:40:58 [32minfo[39m: Logging Started!
+02:40:58 [32minfo[39m: Metrics collector configured
+02:40:58 [32minfo[39m: Middleware configured
+02:40:58 [32minfo[39m: Routes configured
+02:40:58 [32minfo[39m: Error handling set up
+02:40:58 [32minfo[39m: Metrics Collection routes configured
+02:40:58 [32minfo[39m: DataCollectionApp initialized
+02:40:58 [32minfo[39m: Connected to Mongoose
+02:40:58 [32minfo[39m: Logging Started!
+02:40:58 [32minfo[39m: Metrics collector configured
+02:40:58 [32minfo[39m: Middleware configured
+02:40:58 [32minfo[39m: Routes configured
+02:40:58 [32minfo[39m: Error handling set up
+02:40:58 [32minfo[39m: Metrics Collection routes configured
+02:40:58 [32minfo[39m: DataCollectionApp initialized
+02:40:58 [32minfo[39m: Connected to Mongoose
+02:40:58 [32minfo[39m: Loading plugin: googleSheets
+02:40:58 [32minfo[39m: Loaded plugin: googleSheets
+02:40:58 [32minfo[39m: Server running on port 5000
+02:40:58 [32minfo[39m: Loading plugin: googleSheets
+02:40:58 [32minfo[39m: Loaded plugin: googleSheets
+02:40:58 [32minfo[39m: Server running on port 5000
+02:40:59 [32minfo[39m: Stopping the server...
+02:40:59 [32minfo[39m: Stopping the server...
+02:41:00 [32minfo[39m: Logging Started!
+02:41:00 [32minfo[39m: Logging Started!
+02:41:00 [32minfo[39m: Metrics collector configured
+02:41:00 [32minfo[39m: Middleware configured
+02:41:00 [32minfo[39m: Routes configured
+02:41:00 [32minfo[39m: Error handling set up
+02:41:00 [32minfo[39m: Metrics Collection routes configured
+02:41:00 [32minfo[39m: DataCollectionApp initialized
+02:41:00 [32minfo[39m: Metrics collector configured
+02:41:00 [32minfo[39m: Middleware configured
+02:41:00 [32minfo[39m: Routes configured
+02:41:00 [32minfo[39m: Error handling set up
+02:41:00 [32minfo[39m: Metrics Collection routes configured
+02:41:00 [32minfo[39m: DataCollectionApp initialized
+02:41:00 [32minfo[39m: Connected to Mongoose
+02:41:00 [32minfo[39m: Connected to Mongoose
+02:41:00 [32minfo[39m: Loading plugin: googleSheets
+02:41:01 [32minfo[39m: Loaded plugin: googleSheets
+02:41:01 [32minfo[39m: Server running on port 5000
+02:41:00 [32minfo[39m: Loading plugin: googleSheets
+02:41:01 [32minfo[39m: Loaded plugin: googleSheets
+02:41:01 [32minfo[39m: Server running on port 5000
+02:41:01 [32minfo[39m: Stopping the server...
+02:41:01 [32minfo[39m: Stopping the server...
