@@ -16,7 +16,7 @@ const productionLogger = () => {
         transports: [
             new transports.Console(),
             new transports.File({
-                filename: 'errors.log',
+                filename: 'logs.log',
             })
         ],
     });

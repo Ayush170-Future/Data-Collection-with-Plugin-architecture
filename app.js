@@ -17,8 +17,6 @@ class DataCollectionApp extends EventEmitter {
     this.setupMiddleware();
     this.setupRoutes();
     this.setupErrorHandling();
-    this.connectToDatabase();
-    this.startServer();
   }
 
   setupMiddleware() {
@@ -38,8 +36,8 @@ class DataCollectionApp extends EventEmitter {
     logger.info('Error handling set up');
   }
 
-  connectToDatabase() {
-    mongoose
+  async connectToDatabase() {
+    await mongoose
       .connect(process.env.MONGODB_URI)
       .then(() => {
         logger.info('Connected to Mongoose');
@@ -58,8 +56,10 @@ class DataCollectionApp extends EventEmitter {
   }
 
   async stop() {
-    // TODO: Shutting down the Express connection
     logger.info('Stopping the server...');
+    this.connection.close(() => {
+        logger.info('Stopping the express connection...');
+    })
 
     // Shutting down the MongoDB connection
     await mongoose.disconnect();
@@ -67,6 +67,16 @@ class DataCollectionApp extends EventEmitter {
   }
 }
 
-const dataCollectionApp = new DataCollectionApp();
-global.dataCollectionApp = dataCollectionApp;
-logger.info('DataCollectionApp initialized');
+async function startApp() {
+    const dataCollectionApp = new DataCollectionApp();
+    logger.info('DataCollectionApp initialized');
+    await dataCollectionApp.connectToDatabase();
+    await dataCollectionApp.startServer();
+    global.dataCollectionApp = dataCollectionApp;
+}
+
+startApp();
+
+["exit", "SIGINT", "SIGUSR1", "SIGUSR2", "SIGTERM", "uncaughtException"].forEach(event => {
+    process.on(event, () => global.dataCollectionApp.stop());
+});
