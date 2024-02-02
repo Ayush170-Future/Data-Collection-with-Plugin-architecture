@@ -335,3 +335,743 @@
 21:49:19 [32minfo[39m: Stopping the express connection...
 21:49:19 [32minfo[39m: Server and MongoDB connection stopped
 21:49:19 [32minfo[39m: Stopping the server...
+22:21:30 [32minfo[39m: Logging Started!
+22:21:30 [32minfo[39m: Metrics collector configured
+22:21:30 [32minfo[39m: Middleware configured
+22:21:30 [32minfo[39m: Routes configured
+22:21:30 [32minfo[39m: Error handling set up
+22:21:30 [32minfo[39m: Metrics Collection routes configured
+22:21:30 [32minfo[39m: DataCollectionApp initialized
+22:21:30 [32minfo[39m: Connected to Mongoose
+22:21:30 [32minfo[39m: Loading plugin: googleSheets
+22:21:31 [32minfo[39m: Loaded plugin: googleSheets
+22:21:31 [32minfo[39m: Server running on port 5000
+22:21:54 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:21:54 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:21:54 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:21:54 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:21:55 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:21:55 [31merror[39m: Duplicate header detected: "What is your Name?". Please make sure all non-empty headers are unique
+22:26:28 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:26:28 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:26:28 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:26:28 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:26:29 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:26:30 [31merror[39m: Duplicate header detected: "What is your Name?". Please make sure all non-empty headers are unique
+22:27:03 [32minfo[39m: Stopping the server...
+22:27:03 [32minfo[39m: Stopping the express connection...
+22:27:03 [32minfo[39m: Server and MongoDB connection stopped
+22:27:03 [32minfo[39m: Stopping the server...
+22:27:11 [32minfo[39m: Logging Started!
+22:27:11 [32minfo[39m: Metrics collector configured
+22:27:11 [32minfo[39m: Middleware configured
+22:27:11 [32minfo[39m: Routes configured
+22:27:11 [32minfo[39m: Error handling set up
+22:27:11 [32minfo[39m: Metrics Collection routes configured
+22:27:11 [32minfo[39m: DataCollectionApp initialized
+22:27:11 [32minfo[39m: Connected to Mongoose
+22:27:11 [32minfo[39m: Loading plugin: googleSheets
+22:27:12 [32minfo[39m: Loaded plugin: googleSheets
+22:27:12 [32minfo[39m: Server running on port 5000
+22:27:17 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:27:17 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:27:17 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:27:17 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:27:17 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:27:17 [32minfo[39m: Headers updated with the Added questions in Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+22:32:08 [32minfo[39m: Stopping the server...
+22:32:08 [32minfo[39m: Stopping the express connection...
+22:32:08 [32minfo[39m: Server and MongoDB connection stopped
+22:32:08 [32minfo[39m: Stopping the server...
+22:32:13 [32minfo[39m: Logging Started!
+22:32:13 [32minfo[39m: Metrics collector configured
+22:32:13 [32minfo[39m: Middleware configured
+22:32:13 [32minfo[39m: Routes configured
+22:32:13 [32minfo[39m: Error handling set up
+22:32:13 [32minfo[39m: Metrics Collection routes configured
+22:32:13 [32minfo[39m: DataCollectionApp initialized
+22:32:13 [32minfo[39m: Connected to Mongoose
+22:32:13 [32minfo[39m: Loading plugin: googleSheets
+22:32:13 [32minfo[39m: Loaded plugin: googleSheets
+22:32:13 [32minfo[39m: Server running on port 5000
+22:32:16 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:32:16 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:32:16 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:32:16 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:32:17 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:32:17 [31merror[39m: Duplicate header detected: "What is your Name?". Please make sure all non-empty headers are unique
+22:33:55 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:33:55 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:33:55 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:33:55 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:33:55 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:33:56 [32minfo[39m: [object Object]
+22:33:56 [32minfo[39m: Headers updated with the Added questions in Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+22:34:37 [32minfo[39m: Stopping the server...
+22:34:37 [32minfo[39m: Stopping the express connection...
+22:34:37 [32minfo[39m: Server and MongoDB connection stopped
+22:34:37 [32minfo[39m: Stopping the server...
+22:34:43 [32minfo[39m: Logging Started!
+22:34:43 [32minfo[39m: Metrics collector configured
+22:34:43 [32minfo[39m: Middleware configured
+22:34:43 [32minfo[39m: Routes configured
+22:34:43 [32minfo[39m: Error handling set up
+22:34:43 [32minfo[39m: Metrics Collection routes configured
+22:34:43 [32minfo[39m: DataCollectionApp initialized
+22:34:43 [32minfo[39m: Connected to Mongoose
+22:34:43 [32minfo[39m: Loading plugin: googleSheets
+22:34:43 [32minfo[39m: Loaded plugin: googleSheets
+22:34:43 [32minfo[39m: Server running on port 5000
+22:34:47 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:34:47 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:34:47 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:34:47 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:34:48 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:34:48 [31merror[39m: Duplicate header detected: "What is your Name?". Please make sure all non-empty headers are unique
+22:34:57 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:34:57 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:34:57 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:34:57 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:34:58 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:34:59 [32minfo[39m: Headers updated with the Added questions in Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+22:42:08 [32minfo[39m: Stopping the server...
+22:42:08 [32minfo[39m: Stopping the express connection...
+22:42:08 [32minfo[39m: Server and MongoDB connection stopped
+22:42:08 [32minfo[39m: Stopping the server...
+22:42:14 [32minfo[39m: Logging Started!
+22:42:14 [32minfo[39m: Metrics collector configured
+22:42:14 [32minfo[39m: Middleware configured
+22:42:14 [32minfo[39m: Routes configured
+22:42:14 [32minfo[39m: Error handling set up
+22:42:14 [32minfo[39m: Metrics Collection routes configured
+22:42:14 [32minfo[39m: DataCollectionApp initialized
+22:42:14 [32minfo[39m: Connected to Mongoose
+22:42:14 [32minfo[39m: Loading plugin: googleSheets
+22:42:14 [32minfo[39m: Loaded plugin: googleSheets
+22:42:14 [32minfo[39m: Server running on port 5000
+22:42:19 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:42:19 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:42:19 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:42:19 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:42:20 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:42:21 [32minfo[39m: Headers updated with the Added questions in Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+22:42:45 [32minfo[39m: Stopping the server...
+22:42:45 [32minfo[39m: Stopping the express connection...
+22:42:45 [32minfo[39m: Server and MongoDB connection stopped
+22:42:45 [32minfo[39m: Stopping the server...
+22:43:09 [32minfo[39m: Logging Started!
+22:43:09 [32minfo[39m: Metrics collector configured
+22:43:09 [32minfo[39m: Middleware configured
+22:43:09 [32minfo[39m: Routes configured
+22:43:09 [32minfo[39m: Error handling set up
+22:43:09 [32minfo[39m: Metrics Collection routes configured
+22:43:09 [32minfo[39m: DataCollectionApp initialized
+22:43:09 [32minfo[39m: Connected to Mongoose
+22:43:09 [32minfo[39m: Loading plugin: googleSheets
+22:43:10 [32minfo[39m: Loaded plugin: googleSheets
+22:43:10 [32minfo[39m: Server running on port 5000
+22:43:18 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:43:18 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:43:18 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:43:18 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:43:18 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:43:19 [32minfo[39m: Headers updated with the Added questions in Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+22:44:03 [32minfo[39m: Logging Started!
+22:44:03 [32minfo[39m: Metrics collector configured
+22:44:03 [32minfo[39m: Middleware configured
+22:44:03 [32minfo[39m: Routes configured
+22:44:03 [32minfo[39m: Error handling set up
+22:44:03 [32minfo[39m: Metrics Collection routes configured
+22:44:03 [32minfo[39m: DataCollectionApp initialized
+22:44:03 [32minfo[39m: Connected to Mongoose
+22:44:05 [32minfo[39m: Logging Started!
+22:44:05 [32minfo[39m: Metrics collector configured
+22:44:05 [32minfo[39m: Middleware configured
+22:44:05 [32minfo[39m: Routes configured
+22:44:05 [32minfo[39m: Error handling set up
+22:44:05 [32minfo[39m: Metrics Collection routes configured
+22:44:05 [32minfo[39m: DataCollectionApp initialized
+22:44:05 [32minfo[39m: Connected to Mongoose
+22:44:07 [32minfo[39m: Logging Started!
+22:44:08 [32minfo[39m: Metrics collector configured
+22:44:08 [32minfo[39m: Middleware configured
+22:44:08 [32minfo[39m: Routes configured
+22:44:08 [32minfo[39m: Error handling set up
+22:44:08 [32minfo[39m: Metrics Collection routes configured
+22:44:08 [32minfo[39m: DataCollectionApp initialized
+22:44:08 [32minfo[39m: Connected to Mongoose
+22:44:08 [32minfo[39m: Loading plugin: googleSheets
+22:44:08 [32minfo[39m: Loaded plugin: googleSheets
+22:44:08 [32minfo[39m: Server running on port 5000
+22:44:15 [32minfo[39m: Logging Started!
+22:44:15 [32minfo[39m: Metrics collector configured
+22:44:15 [32minfo[39m: Middleware configured
+22:44:16 [32minfo[39m: Routes configured
+22:44:16 [32minfo[39m: Error handling set up
+22:44:16 [32minfo[39m: Metrics Collection routes configured
+22:44:16 [32minfo[39m: DataCollectionApp initialized
+22:44:16 [32minfo[39m: Connected to Mongoose
+22:44:16 [32minfo[39m: Loading plugin: googleSheets
+22:44:16 [32minfo[39m: Loaded plugin: googleSheets
+22:44:16 [32minfo[39m: Server running on port 5000
+22:44:31 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:44:31 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:44:31 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:44:31 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:44:31 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:44:32 [32minfo[39m: Headers updated with the Added questions in Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+22:44:50 [32minfo[39m: Logging Started!
+22:44:50 [32minfo[39m: Metrics collector configured
+22:44:50 [32minfo[39m: Middleware configured
+22:44:50 [32minfo[39m: Routes configured
+22:44:50 [32minfo[39m: Error handling set up
+22:44:50 [32minfo[39m: Metrics Collection routes configured
+22:44:50 [32minfo[39m: DataCollectionApp initialized
+22:44:50 [32minfo[39m: Connected to Mongoose
+22:44:52 [32minfo[39m: Logging Started!
+22:44:52 [32minfo[39m: Metrics collector configured
+22:44:52 [32minfo[39m: Middleware configured
+22:44:52 [32minfo[39m: Routes configured
+22:44:52 [32minfo[39m: Error handling set up
+22:44:52 [32minfo[39m: Metrics Collection routes configured
+22:44:52 [32minfo[39m: DataCollectionApp initialized
+22:44:52 [32minfo[39m: Connected to Mongoose
+22:44:52 [32minfo[39m: Loading plugin: googleSheets
+22:44:53 [32minfo[39m: Loaded plugin: googleSheets
+22:44:53 [32minfo[39m: Server running on port 5000
+22:44:56 [32minfo[39m: Logging Started!
+22:44:57 [32minfo[39m: Metrics collector configured
+22:44:57 [32minfo[39m: Middleware configured
+22:44:57 [32minfo[39m: Routes configured
+22:44:57 [32minfo[39m: Error handling set up
+22:44:57 [32minfo[39m: Metrics Collection routes configured
+22:44:57 [32minfo[39m: DataCollectionApp initialized
+22:44:57 [32minfo[39m: Connected to Mongoose
+22:44:57 [32minfo[39m: Loading plugin: googleSheets
+22:44:57 [32minfo[39m: Loaded plugin: googleSheets
+22:44:58 [32minfo[39m: Server running on port 5000
+22:45:08 [32minfo[39m: Logging Started!
+22:45:08 [32minfo[39m: Metrics collector configured
+22:45:08 [32minfo[39m: Middleware configured
+22:45:08 [32minfo[39m: Routes configured
+22:45:08 [32minfo[39m: Error handling set up
+22:45:08 [32minfo[39m: Metrics Collection routes configured
+22:45:08 [32minfo[39m: DataCollectionApp initialized
+22:45:08 [32minfo[39m: Connected to Mongoose
+22:45:08 [32minfo[39m: Loading plugin: googleSheets
+22:45:08 [32minfo[39m: Loaded plugin: googleSheets
+22:45:08 [32minfo[39m: Server running on port 5000
+22:45:27 [32minfo[39m: Logging Started!
+22:45:27 [32minfo[39m: Metrics collector configured
+22:45:28 [32minfo[39m: Middleware configured
+22:45:28 [32minfo[39m: Routes configured
+22:45:28 [32minfo[39m: Error handling set up
+22:45:28 [32minfo[39m: Metrics Collection routes configured
+22:45:28 [32minfo[39m: DataCollectionApp initialized
+22:45:28 [32minfo[39m: Connected to Mongoose
+22:45:28 [32minfo[39m: Loading plugin: googleSheets
+22:45:28 [32minfo[39m: Loaded plugin: googleSheets
+22:45:28 [32minfo[39m: Server running on port 5000
+22:45:30 [32minfo[39m: Logging Started!
+22:45:30 [32minfo[39m: Metrics collector configured
+22:45:30 [32minfo[39m: Middleware configured
+22:45:30 [32minfo[39m: Routes configured
+22:45:30 [32minfo[39m: Error handling set up
+22:45:30 [32minfo[39m: Metrics Collection routes configured
+22:45:30 [32minfo[39m: DataCollectionApp initialized
+22:45:30 [32minfo[39m: Connected to Mongoose
+22:45:30 [32minfo[39m: Loading plugin: googleSheets
+22:45:31 [32minfo[39m: Loaded plugin: googleSheets
+22:45:31 [32minfo[39m: Server running on port 5000
+22:45:34 [32minfo[39m: Logging Started!
+22:45:34 [32minfo[39m: Metrics collector configured
+22:45:34 [32minfo[39m: Middleware configured
+22:45:34 [32minfo[39m: Routes configured
+22:45:34 [32minfo[39m: Error handling set up
+22:45:34 [32minfo[39m: Metrics Collection routes configured
+22:45:34 [32minfo[39m: DataCollectionApp initialized
+22:45:34 [32minfo[39m: Connected to Mongoose
+22:45:34 [32minfo[39m: Loading plugin: googleSheets
+22:45:34 [32minfo[39m: Loaded plugin: googleSheets
+22:45:34 [32minfo[39m: Server running on port 5000
+22:45:42 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:45:42 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:45:42 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:45:42 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:45:42 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:45:45 [32minfo[39m: Headers updated with the Added questions in Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+22:46:28 [32minfo[39m: Logging Started!
+22:46:28 [32minfo[39m: Metrics collector configured
+22:46:28 [32minfo[39m: Middleware configured
+22:46:28 [32minfo[39m: Routes configured
+22:46:28 [32minfo[39m: Error handling set up
+22:46:28 [32minfo[39m: Metrics Collection routes configured
+22:46:28 [32minfo[39m: DataCollectionApp initialized
+22:46:28 [32minfo[39m: Connected to Mongoose
+22:46:28 [32minfo[39m: Loading plugin: googleSheets
+22:46:28 [32minfo[39m: Loaded plugin: googleSheets
+22:46:28 [32minfo[39m: Server running on port 5000
+22:46:43 [32minfo[39m: Logging Started!
+22:46:43 [32minfo[39m: Metrics collector configured
+22:46:43 [32minfo[39m: Middleware configured
+22:46:43 [32minfo[39m: Routes configured
+22:46:43 [32minfo[39m: Error handling set up
+22:46:43 [32minfo[39m: Metrics Collection routes configured
+22:46:43 [32minfo[39m: DataCollectionApp initialized
+22:46:43 [32minfo[39m: Connected to Mongoose
+22:46:43 [32minfo[39m: Loading plugin: googleSheets
+22:46:43 [32minfo[39m: Loaded plugin: googleSheets
+22:46:43 [32minfo[39m: Server running on port 5000
+22:46:45 [32minfo[39m: Logging Started!
+22:46:45 [32minfo[39m: Metrics collector configured
+22:46:45 [32minfo[39m: Middleware configured
+22:46:45 [32minfo[39m: Routes configured
+22:46:45 [32minfo[39m: Error handling set up
+22:46:45 [32minfo[39m: Metrics Collection routes configured
+22:46:45 [32minfo[39m: DataCollectionApp initialized
+22:46:45 [32minfo[39m: Connected to Mongoose
+22:46:45 [32minfo[39m: Loading plugin: googleSheets
+22:46:45 [32minfo[39m: Loaded plugin: googleSheets
+22:46:45 [32minfo[39m: Server running on port 5000
+22:46:51 [32minfo[39m: Logging Started!
+22:46:51 [32minfo[39m: Metrics collector configured
+22:46:51 [32minfo[39m: Middleware configured
+22:46:51 [32minfo[39m: Routes configured
+22:46:51 [32minfo[39m: Error handling set up
+22:46:51 [32minfo[39m: Metrics Collection routes configured
+22:46:51 [32minfo[39m: DataCollectionApp initialized
+22:46:51 [32minfo[39m: Connected to Mongoose
+22:46:51 [32minfo[39m: Loading plugin: googleSheets
+22:46:51 [32minfo[39m: Loaded plugin: googleSheets
+22:46:51 [32minfo[39m: Server running on port 5000
+22:46:55 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:46:55 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:46:55 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:46:55 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:46:55 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:46:56 [31merror[39m: Duplicate header detected: "What is your Name?". Please make sure all non-empty headers are unique
+22:47:08 [32minfo[39m: Stopping the server...
+22:47:14 [32minfo[39m: Logging Started!
+22:47:14 [32minfo[39m: Metrics collector configured
+22:47:14 [32minfo[39m: Middleware configured
+22:47:14 [32minfo[39m: Routes configured
+22:47:14 [32minfo[39m: Error handling set up
+22:47:14 [32minfo[39m: Metrics Collection routes configured
+22:47:14 [32minfo[39m: DataCollectionApp initialized
+22:47:14 [32minfo[39m: Connected to Mongoose
+22:47:14 [32minfo[39m: Loading plugin: googleSheets
+22:47:14 [32minfo[39m: Loaded plugin: googleSheets
+22:47:14 [32minfo[39m: Server running on port 5000
+22:47:16 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:47:16 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:47:16 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:47:16 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:47:17 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:47:17 [31merror[39m: Duplicate header detected: "What is your Name?". Please make sure all non-empty headers are unique
+22:47:24 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:47:24 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:47:24 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:47:24 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:47:25 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:47:26 [32minfo[39m: Headers updated with the Added questions in Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+22:47:50 [32minfo[39m: Stopping the server...
+22:48:27 [32minfo[39m: Logging Started!
+22:48:27 [32minfo[39m: Metrics collector configured
+22:48:27 [32minfo[39m: Middleware configured
+22:48:28 [32minfo[39m: Routes configured
+22:48:28 [32minfo[39m: Error handling set up
+22:48:28 [32minfo[39m: Metrics Collection routes configured
+22:48:28 [32minfo[39m: DataCollectionApp initialized
+22:48:28 [32minfo[39m: Connected to Mongoose
+22:48:28 [32minfo[39m: Loading plugin: googleSheets
+22:48:28 [32minfo[39m: Loaded plugin: googleSheets
+22:48:28 [32minfo[39m: Server running on port 5000
+22:48:47 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:48:47 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:48:47 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:48:47 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:48:48 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:48:48 [31merror[39m: Duplicate header detected: "What is your Name?". Please make sure all non-empty headers are unique
+22:48:54 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:48:54 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:48:54 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:48:54 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:48:54 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:48:55 [31merror[39m: Duplicate header detected: "What is your Name?". Please make sure all non-empty headers are unique
+22:49:14 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:49:14 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:49:14 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:49:14 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:49:15 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:49:15 [31merror[39m: Duplicate header detected: "What is your Name?". Please make sure all non-empty headers are unique
+22:49:41 [32minfo[39m: Logging Started!
+22:49:41 [32minfo[39m: Metrics collector configured
+22:49:41 [32minfo[39m: Middleware configured
+22:49:41 [32minfo[39m: Routes configured
+22:49:41 [32minfo[39m: Error handling set up
+22:49:41 [32minfo[39m: Metrics Collection routes configured
+22:49:41 [32minfo[39m: DataCollectionApp initialized
+22:49:41 [32minfo[39m: Connected to Mongoose
+22:49:41 [32minfo[39m: Loading plugin: googleSheets
+22:49:42 [32minfo[39m: Loaded plugin: googleSheets
+22:49:42 [32minfo[39m: Server running on port 5000
+22:49:47 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:49:47 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:49:47 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:49:47 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:49:47 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:49:47 [31merror[39m: Duplicate header detected: "What is your Name?". Please make sure all non-empty headers are unique
+22:50:01 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:50:01 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:50:01 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:50:01 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:50:01 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:50:01 [31merror[39m: Duplicate header detected: "What is your Name?". Please make sure all non-empty headers are unique
+22:50:23 [32minfo[39m: Stopping the server...
+22:50:27 [32minfo[39m: Logging Started!
+22:50:27 [32minfo[39m: Metrics collector configured
+22:50:27 [32minfo[39m: Middleware configured
+22:50:27 [32minfo[39m: Routes configured
+22:50:27 [32minfo[39m: Error handling set up
+22:50:27 [32minfo[39m: Metrics Collection routes configured
+22:50:27 [32minfo[39m: DataCollectionApp initialized
+22:50:27 [32minfo[39m: Connected to Mongoose
+22:50:27 [32minfo[39m: Loading plugin: googleSheets
+22:50:27 [32minfo[39m: Loaded plugin: googleSheets
+22:50:27 [32minfo[39m: Server running on port 5000
+22:50:33 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:50:33 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:50:33 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:50:33 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:50:33 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:50:34 [32minfo[39m: Headers updated with the Added questions in Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+22:50:55 [32minfo[39m: Logging Started!
+22:50:55 [32minfo[39m: Metrics collector configured
+22:50:55 [32minfo[39m: Middleware configured
+22:50:55 [32minfo[39m: Routes configured
+22:50:55 [32minfo[39m: Error handling set up
+22:50:55 [32minfo[39m: Metrics Collection routes configured
+22:50:55 [32minfo[39m: DataCollectionApp initialized
+22:50:55 [32minfo[39m: Connected to Mongoose
+22:50:55 [32minfo[39m: Loading plugin: googleSheets
+22:50:55 [32minfo[39m: Loaded plugin: googleSheets
+22:50:55 [32minfo[39m: Server running on port 5000
+22:51:03 [32minfo[39m: Logging Started!
+22:51:03 [32minfo[39m: Metrics collector configured
+22:51:03 [32minfo[39m: Middleware configured
+22:51:03 [32minfo[39m: Routes configured
+22:51:03 [32minfo[39m: Error handling set up
+22:51:03 [32minfo[39m: Metrics Collection routes configured
+22:51:03 [32minfo[39m: DataCollectionApp initialized
+22:51:03 [32minfo[39m: Connected to Mongoose
+22:51:03 [32minfo[39m: Loading plugin: googleSheets
+22:51:04 [32minfo[39m: Loaded plugin: googleSheets
+22:51:04 [32minfo[39m: Server running on port 5000
+22:51:05 [32minfo[39m: Logging Started!
+22:51:05 [32minfo[39m: Metrics collector configured
+22:51:05 [32minfo[39m: Middleware configured
+22:51:05 [32minfo[39m: Routes configured
+22:51:05 [32minfo[39m: Error handling set up
+22:51:05 [32minfo[39m: Metrics Collection routes configured
+22:51:05 [32minfo[39m: DataCollectionApp initialized
+22:51:05 [32minfo[39m: Connected to Mongoose
+22:51:05 [32minfo[39m: Loading plugin: googleSheets
+22:51:05 [32minfo[39m: Loaded plugin: googleSheets
+22:51:05 [32minfo[39m: Server running on port 5000
+22:51:14 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:51:14 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:51:14 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:51:14 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:51:14 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:51:15 [31merror[39m: o?.trim is not a function
+22:51:35 [32minfo[39m: Stopping the server...
+22:51:52 [32minfo[39m: Logging Started!
+22:51:52 [32minfo[39m: Metrics collector configured
+22:51:52 [32minfo[39m: Middleware configured
+22:51:52 [32minfo[39m: Routes configured
+22:51:52 [32minfo[39m: Error handling set up
+22:51:52 [32minfo[39m: Metrics Collection routes configured
+22:51:52 [32minfo[39m: DataCollectionApp initialized
+22:51:52 [32minfo[39m: Connected to Mongoose
+22:51:52 [32minfo[39m: Loading plugin: googleSheets
+22:51:52 [32minfo[39m: Loaded plugin: googleSheets
+22:51:52 [32minfo[39m: Server running on port 5000
+22:51:56 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:51:56 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:51:56 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:51:56 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:51:56 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:51:57 [32minfo[39m: Headers updated with the Added questions in Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+22:52:30 [32minfo[39m: Logging Started!
+22:52:30 [32minfo[39m: Metrics collector configured
+22:52:30 [32minfo[39m: Middleware configured
+22:52:30 [32minfo[39m: Routes configured
+22:52:30 [32minfo[39m: Error handling set up
+22:52:30 [32minfo[39m: Metrics Collection routes configured
+22:52:30 [32minfo[39m: DataCollectionApp initialized
+22:52:31 [32minfo[39m: Connected to Mongoose
+22:52:31 [32minfo[39m: Loading plugin: googleSheets
+22:52:31 [32minfo[39m: Loaded plugin: googleSheets
+22:52:31 [32minfo[39m: Server running on port 5000
+22:52:34 [32minfo[39m: Logging Started!
+22:52:34 [32minfo[39m: Metrics collector configured
+22:52:34 [32minfo[39m: Middleware configured
+22:52:34 [32minfo[39m: Routes configured
+22:52:34 [32minfo[39m: Error handling set up
+22:52:34 [32minfo[39m: Metrics Collection routes configured
+22:52:34 [32minfo[39m: DataCollectionApp initialized
+22:52:34 [32minfo[39m: Connected to Mongoose
+22:52:34 [32minfo[39m: Loading plugin: googleSheets
+22:52:34 [32minfo[39m: Loaded plugin: googleSheets
+22:52:34 [32minfo[39m: Server running on port 5000
+22:52:41 [32minfo[39m: Logging Started!
+22:52:41 [32minfo[39m: Metrics collector configured
+22:52:41 [32minfo[39m: Middleware configured
+22:52:41 [32minfo[39m: Routes configured
+22:52:41 [32minfo[39m: Error handling set up
+22:52:41 [32minfo[39m: Metrics Collection routes configured
+22:52:41 [32minfo[39m: DataCollectionApp initialized
+22:52:41 [32minfo[39m: Connected to Mongoose
+22:52:41 [32minfo[39m: Loading plugin: googleSheets
+22:52:41 [32minfo[39m: Loaded plugin: googleSheets
+22:52:41 [32minfo[39m: Server running on port 5000
+22:52:48 [32minfo[39m: Logging Started!
+22:52:48 [32minfo[39m: Metrics collector configured
+22:52:48 [32minfo[39m: Middleware configured
+22:52:48 [32minfo[39m: Routes configured
+22:52:48 [32minfo[39m: Error handling set up
+22:52:48 [32minfo[39m: Metrics Collection routes configured
+22:52:48 [32minfo[39m: DataCollectionApp initialized
+22:52:48 [32minfo[39m: Connected to Mongoose
+22:52:48 [32minfo[39m: Loading plugin: googleSheets
+22:52:48 [32minfo[39m: Loaded plugin: googleSheets
+22:52:48 [32minfo[39m: Server running on port 5000
+22:52:54 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's your favorite Superhero?
+22:52:54 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's your favorite movie?
+22:52:54 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:52:54 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:52:54 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:52:56 [31merror[39m: Duplicate header detected: "Who's your favorite Superhero?". Please make sure all non-empty headers are unique
+22:53:08 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's favorite Superhero?
+22:53:08 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's favorite movie?
+22:53:08 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:53:08 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:53:08 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:53:09 [31merror[39m: Duplicate header detected: "Who's your favorite Superhero?". Please make sure all non-empty headers are unique
+22:53:29 [32minfo[39m: Stopping the server...
+22:53:34 [32minfo[39m: Logging Started!
+22:53:35 [32minfo[39m: Metrics collector configured
+22:53:35 [32minfo[39m: Middleware configured
+22:53:35 [32minfo[39m: Routes configured
+22:53:35 [32minfo[39m: Error handling set up
+22:53:35 [32minfo[39m: Metrics Collection routes configured
+22:53:35 [32minfo[39m: DataCollectionApp initialized
+22:53:35 [32minfo[39m: Connected to Mongoose
+22:53:35 [32minfo[39m: Loading plugin: googleSheets
+22:53:35 [32minfo[39m: Loaded plugin: googleSheets
+22:53:35 [32minfo[39m: Server running on port 5000
+22:53:38 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: Who's favorite Superhero?
+22:53:38 [32minfo[39m: addQuestions - Question saved successfully for Form ID 65bbd76e79c47df72035d9a0: What's favorite movie?
+22:53:38 [32minfo[39m: addQuestions - Questions added successfully for Form ID 65bbd76e79c47df72035d9a0
+22:53:38 [32minfo[39m: addQuestionsEventEmitter - QuestionsAdded event emitted
+22:53:38 [32minfo[39m: Sheet ID for Form ID 65bbd76e79c47df72035d9a0: 545692567
+22:53:39 [32minfo[39m: Headers updated with the Added questions in Sheet ID 545692567 for Form ID 65bbd76e79c47df72035d9a0
+22:54:36 [32minfo[39m: Logging Started!
+22:54:37 [32minfo[39m: Metrics collector configured
+22:54:37 [32minfo[39m: Middleware configured
+22:54:37 [32minfo[39m: Routes configured
+22:54:37 [32minfo[39m: Error handling set up
+22:54:37 [32minfo[39m: Metrics Collection routes configured
+22:54:37 [32minfo[39m: DataCollectionApp initialized
+22:54:37 [32minfo[39m: Connected to Mongoose
+22:54:37 [32minfo[39m: Loading plugin: googleSheets
+22:54:37 [32minfo[39m: Loaded plugin: googleSheets
+22:54:37 [32minfo[39m: Server running on port 5000
+22:54:45 [32minfo[39m: Logging Started!
+22:54:45 [32minfo[39m: Metrics collector configured
+22:54:45 [32minfo[39m: Middleware configured
+22:54:45 [32minfo[39m: Routes configured
+22:54:45 [32minfo[39m: Error handling set up
+22:54:45 [32minfo[39m: Metrics Collection routes configured
+22:54:45 [32minfo[39m: DataCollectionApp initialized
+22:54:45 [32minfo[39m: Connected to Mongoose
+22:54:45 [32minfo[39m: Loading plugin: googleSheets
+22:54:45 [32minfo[39m: Loaded plugin: googleSheets
+22:54:45 [32minfo[39m: Server running on port 5000
+22:54:51 [32minfo[39m: Logging Started!
+22:54:51 [32minfo[39m: Metrics collector configured
+22:54:51 [32minfo[39m: Middleware configured
+22:54:51 [32minfo[39m: Routes configured
+22:54:51 [32minfo[39m: Error handling set up
+22:54:51 [32minfo[39m: Metrics Collection routes configured
+22:54:51 [32minfo[39m: DataCollectionApp initialized
+22:54:51 [32minfo[39m: Connected to Mongoose
+22:54:51 [32minfo[39m: Loading plugin: googleSheets
+22:54:51 [32minfo[39m: Loaded plugin: googleSheets
+22:54:51 [32minfo[39m: Server running on port 5000
+22:54:54 [32minfo[39m: Logging Started!
+22:54:54 [32minfo[39m: Metrics collector configured
+22:54:54 [32minfo[39m: Middleware configured
+22:54:54 [32minfo[39m: Routes configured
+22:54:54 [32minfo[39m: Error handling set up
+22:54:54 [32minfo[39m: Metrics Collection routes configured
+22:54:54 [32minfo[39m: DataCollectionApp initialized
+22:54:54 [32minfo[39m: Connected to Mongoose
+22:54:54 [32minfo[39m: Loading plugin: googleSheets
+22:54:54 [32minfo[39m: Loaded plugin: googleSheets
+22:54:54 [32minfo[39m: Server running on port 5000
+22:55:07 [32minfo[39m: Logging Started!
+22:55:07 [32minfo[39m: Metrics collector configured
+22:55:07 [32minfo[39m: Middleware configured
+22:55:07 [32minfo[39m: Routes configured
+22:55:07 [32minfo[39m: Error handling set up
+22:55:07 [32minfo[39m: Metrics Collection routes configured
+22:55:07 [32minfo[39m: DataCollectionApp initialized
+22:55:08 [32minfo[39m: Connected to Mongoose
+22:55:08 [32minfo[39m: Loading plugin: googleSheets
+22:55:08 [32minfo[39m: Loaded plugin: googleSheets
+22:55:08 [32minfo[39m: Server running on port 5000
+22:55:18 [32minfo[39m: Logging Started!
+22:55:18 [32minfo[39m: Metrics collector configured
+22:55:18 [32minfo[39m: Middleware configured
+22:55:18 [32minfo[39m: Routes configured
+22:55:18 [32minfo[39m: Error handling set up
+22:55:18 [32minfo[39m: Metrics Collection routes configured
+22:55:18 [32minfo[39m: DataCollectionApp initialized
+22:55:18 [32minfo[39m: Connected to Mongoose
+22:55:18 [32minfo[39m: Loading plugin: googleSheets
+22:55:18 [32minfo[39m: Loaded plugin: googleSheets
+22:55:18 [32minfo[39m: Server running on port 5000
+22:55:21 [32minfo[39m: Logging Started!
+22:55:21 [32minfo[39m: Metrics collector configured
+22:55:21 [32minfo[39m: Middleware configured
+22:55:21 [32minfo[39m: Routes configured
+22:55:21 [32minfo[39m: Error handling set up
+22:55:21 [32minfo[39m: Metrics Collection routes configured
+22:55:21 [32minfo[39m: DataCollectionApp initialized
+22:55:21 [32minfo[39m: Connected to Mongoose
+22:55:21 [32minfo[39m: Loading plugin: googleSheets
+22:55:21 [32minfo[39m: Loaded plugin: googleSheets
+22:55:21 [32minfo[39m: Server running on port 5000
+22:55:33 [32minfo[39m: Logging Started!
+22:55:33 [32minfo[39m: Metrics collector configured
+22:55:33 [32minfo[39m: Middleware configured
+22:55:33 [32minfo[39m: Routes configured
+22:55:33 [32minfo[39m: Error handling set up
+22:55:33 [32minfo[39m: Metrics Collection routes configured
+22:55:33 [32minfo[39m: DataCollectionApp initialized
+22:55:33 [32minfo[39m: Connected to Mongoose
+22:55:33 [32minfo[39m: Loading plugin: googleSheets
+22:55:33 [32minfo[39m: Loaded plugin: googleSheets
+22:55:33 [32minfo[39m: Server running on port 5000
+22:55:44 [32minfo[39m: Logging Started!
+22:55:44 [32minfo[39m: Metrics collector configured
+22:55:44 [32minfo[39m: Middleware configured
+22:55:44 [32minfo[39m: Routes configured
+22:55:44 [32minfo[39m: Error handling set up
+22:55:44 [32minfo[39m: Metrics Collection routes configured
+22:55:44 [32minfo[39m: DataCollectionApp initialized
+22:55:44 [32minfo[39m: Connected to Mongoose
+22:55:44 [32minfo[39m: Loading plugin: googleSheets
+22:55:44 [32minfo[39m: Loaded plugin: googleSheets
+22:55:44 [32minfo[39m: Server running on port 5000
+22:56:04 [32minfo[39m: Logging Started!
+22:56:04 [32minfo[39m: Metrics collector configured
+22:56:04 [32minfo[39m: Middleware configured
+22:56:04 [32minfo[39m: Routes configured
+22:56:04 [32minfo[39m: Error handling set up
+22:56:04 [32minfo[39m: Metrics Collection routes configured
+22:56:04 [32minfo[39m: DataCollectionApp initialized
+22:56:04 [32minfo[39m: Connected to Mongoose
+22:56:04 [32minfo[39m: Loading plugin: googleSheets
+22:56:04 [32minfo[39m: Loaded plugin: googleSheets
+22:56:04 [32minfo[39m: Server running on port 5000
+22:56:05 [32minfo[39m: Logging Started!
+22:56:06 [32minfo[39m: Metrics collector configured
+22:56:06 [32minfo[39m: Middleware configured
+22:56:06 [32minfo[39m: Routes configured
+22:56:06 [32minfo[39m: Error handling set up
+22:56:06 [32minfo[39m: Metrics Collection routes configured
+22:56:06 [32minfo[39m: DataCollectionApp initialized
+22:56:06 [32minfo[39m: Connected to Mongoose
+22:56:06 [32minfo[39m: Loading plugin: googleSheets
+22:56:06 [32minfo[39m: Loaded plugin: googleSheets
+22:56:06 [32minfo[39m: Server running on port 5000
+22:56:10 [32minfo[39m: Logging Started!
+22:56:10 [32minfo[39m: Metrics collector configured
+22:56:10 [32minfo[39m: Middleware configured
+22:56:10 [32minfo[39m: Routes configured
+22:56:10 [32minfo[39m: Error handling set up
+22:56:10 [32minfo[39m: Metrics Collection routes configured
+22:56:10 [32minfo[39m: DataCollectionApp initialized
+22:56:10 [32minfo[39m: Connected to Mongoose
+22:56:10 [32minfo[39m: Loading plugin: googleSheets
+22:56:10 [32minfo[39m: Loaded plugin: googleSheets
+22:56:10 [32minfo[39m: Server running on port 5000
+22:56:13 [32minfo[39m: Logging Started!
+22:56:13 [32minfo[39m: Metrics collector configured
+22:56:13 [32minfo[39m: Middleware configured
+22:56:13 [32minfo[39m: Routes configured
+22:56:13 [32minfo[39m: Error handling set up
+22:56:13 [32minfo[39m: Metrics Collection routes configured
+22:56:13 [32minfo[39m: DataCollectionApp initialized
+22:56:13 [32minfo[39m: Connected to Mongoose
+22:56:13 [32minfo[39m: Loading plugin: googleSheets
+22:56:13 [32minfo[39m: Loaded plugin: googleSheets
+22:56:13 [32minfo[39m: Server running on port 5000
+22:56:14 [32minfo[39m: Logging Started!
+22:56:15 [32minfo[39m: Metrics collector configured
+22:56:15 [32minfo[39m: Middleware configured
+22:56:15 [32minfo[39m: Routes configured
+22:56:15 [32minfo[39m: Error handling set up
+22:56:15 [32minfo[39m: Metrics Collection routes configured
+22:56:15 [32minfo[39m: DataCollectionApp initialized
+22:56:15 [32minfo[39m: Connected to Mongoose
+22:56:15 [32minfo[39m: Loading plugin: googleSheets
+22:56:15 [32minfo[39m: Loaded plugin: googleSheets
+22:56:15 [32minfo[39m: Server running on port 5000
+22:56:18 [32minfo[39m: Logging Started!
+22:56:18 [32minfo[39m: Metrics collector configured
+22:56:18 [32minfo[39m: Middleware configured
+22:56:18 [32minfo[39m: Routes configured
+22:56:18 [32minfo[39m: Error handling set up
+22:56:18 [32minfo[39m: Metrics Collection routes configured
+22:56:18 [32minfo[39m: DataCollectionApp initialized
+22:56:18 [32minfo[39m: Connected to Mongoose
+22:56:18 [32minfo[39m: Loading plugin: googleSheets
+22:56:19 [32minfo[39m: Loaded plugin: googleSheets
+22:56:19 [32minfo[39m: Server running on port 5000
+22:56:24 [32minfo[39m: Logging Started!
+22:56:24 [32minfo[39m: Metrics collector configured
+22:56:24 [32minfo[39m: Middleware configured
+22:56:24 [32minfo[39m: Routes configured
+22:56:24 [32minfo[39m: Error handling set up
+22:56:24 [32minfo[39m: Metrics Collection routes configured
+22:56:24 [32minfo[39m: DataCollectionApp initialized
+22:56:24 [32minfo[39m: Connected to Mongoose
+22:56:24 [32minfo[39m: Loading plugin: googleSheets
+22:56:24 [32minfo[39m: Loaded plugin: googleSheets
+22:56:24 [32minfo[39m: Server running on port 5000
+22:56:30 [32minfo[39m: Logging Started!
+22:56:30 [32minfo[39m: Metrics collector configured
+22:56:30 [32minfo[39m: Middleware configured
+22:56:30 [32minfo[39m: Routes configured
+22:56:30 [32minfo[39m: Error handling set up
+22:56:30 [32minfo[39m: Metrics Collection routes configured
+22:56:30 [32minfo[39m: DataCollectionApp initialized
+22:56:30 [32minfo[39m: Connected to Mongoose
+22:56:30 [32minfo[39m: Loading plugin: googleSheets
+22:56:30 [32minfo[39m: Loaded plugin: googleSheets
+22:56:30 [32minfo[39m: Server running on port 5000
+22:56:35 [32minfo[39m: Logging Started!
+22:56:35 [32minfo[39m: Metrics collector configured
+22:56:35 [32minfo[39m: Middleware configured
+22:56:35 [32minfo[39m: Routes configured
+22:56:35 [32minfo[39m: Error handling set up
+22:56:35 [32minfo[39m: Metrics Collection routes configured
+22:56:35 [32minfo[39m: DataCollectionApp initialized
+22:56:35 [32minfo[39m: Connected to Mongoose
+22:56:35 [32minfo[39m: Loading plugin: googleSheets
+22:56:35 [32minfo[39m: Loaded plugin: googleSheets
+22:56:35 [32minfo[39m: Server running on port 5000
+22:56:40 [32minfo[39m: Stopping the server...

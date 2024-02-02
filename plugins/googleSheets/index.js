@@ -58,23 +58,31 @@ async function load(app) {
             logger.info(`Row Added to Sheet ID ${sheet.sheetId} for Form ID ${formId}`);
         } catch (err) {
             logger.error(err);
+            // In case of failure, re-initialize the 'doc' object
+            // This is done to address potential issues related to an inconsistent 'doc' object with the Cloud Sheet.
+            start();
         }
     })
 
     app.on("QuestionsAdded", async (questionsArray, formId) => {
         try {
-            await doc.loadInfo();
             const sheet = await getSheetByFromId(formId);
-            await sheet.setHeaderRow(questionsArray);
+            const headerRow = await sheet.getRows();
+            // Getting the previous Headers for this Sheet and appending in the new Columns
+            headerRow[0]._worksheet._headerValues.push(...questionsArray);
+            console.log(headerRow[0]._worksheet._headerValues)
+            await sheet.setHeaderRow(headerRow[0]._worksheet._headerValues);
             logger.info(`Headers updated with the Added questions in Sheet ID ${sheet.sheetId} for Form ID ${formId}`);
         } catch (err) {
             logger.error(err);
+            // In case of failure, re-initialize the 'doc' object
+            // This is done to address potential issues related to an inconsistent 'doc' object with the Cloud Sheet.
+            start();
         }
     })
 }
 
 function unload() {
-    // Add any necessary cleanup logic and appropriate logging messages
     logger.info("Google Sheet plugin unloaded");
 }
 
