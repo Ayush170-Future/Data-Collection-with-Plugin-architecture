@@ -33,22 +33,28 @@ This backend application serves as a robust data collection tool designed around
    ```bash
    npm start
 
-### With Docker
+## Using Docker
 
-**1. Start Docker Desktop.**
+Follow these steps to deploy the application, Grafana, and Prometheus using Docker:
 
-**2. Run the following command to build and run the Docker containers for the application, Grafana, and Prometheus:**
+1. **Start Docker Desktop:**
+    Ensure Docker Desktop is running on your machine.
+
+2. **Build and Run Docker Containers:**
+    Run the following command to build and start the Docker containers for the application, Grafana, and Prometheus:
     ```bash
     docker-compose up
     ```
+    This command initiates the application on port 5000, Grafana on port 3000, and Prometheus on port 9090.
 
-    This command will start the application on port 5000, Grafana on port 3000, and Prometheus on port 9090.
+3. **Access the Application:**
+    Open your web browser and navigate to [http://localhost:5000](http://localhost:5000) to access the main application.
 
-**3. Access the application at [http://localhost:5000](http://localhost:5000).**
+4. **Access Grafana:**
+    Visit [http://localhost:3000](http://localhost:3000) to access Grafana. Use the default credentials (admin/admin).
 
-**4. Access Grafana at [http://localhost:3000](http://localhost:3000) with default credentials (admin/admin).**
-
-**5. Access Prometheus at [http://localhost:9090](http://localhost:9090).**
+5. **Access Prometheus:**
+    Navigate to [http://localhost:9090](http://localhost:9090) to access Prometheus for monitoring purposes.
 ## Scope for Improvement
 
 1. **Kubernetes Autoscaling:**
