@@ -1,7 +1,9 @@
 const logger = require('../logger/index.js');
-const errorHandler = (err, req, res, next) => {
+const {totalNumberOfErrors} = require('../metrics/metric.js');
 
+const errorHandler = (err, req, res, next) => {
     logger.info("Inside Error Handler");
+    totalNumberOfErrors.inc();
     const statusCode = res.statusCode ? res.statusCode : 500;
 
     logger.error(err.message);

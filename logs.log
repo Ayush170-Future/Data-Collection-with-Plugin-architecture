@@ -2534,3 +2534,460 @@
 12:58:23 [32minfo[39m: Stopping the express connection...
 12:58:23 [32minfo[39m: Server and MongoDB connection stopped
 12:58:23 [32minfo[39m: Stopping the server...
+14:07:09 [32minfo[39m: Logging Started!
+14:07:09 [32minfo[39m: Metrics collector configured
+14:07:09 [32minfo[39m: Middleware configured
+14:07:09 [32minfo[39m: Metrics Middleware configured
+14:07:09 [32minfo[39m: Routes configured
+14:07:09 [32minfo[39m: Error handling set up
+14:07:09 [32minfo[39m: Metrics Collection routes configured
+14:07:09 [32minfo[39m: DataCollectionApp initialized
+14:07:11 [32minfo[39m: Connected to Mongoose
+14:07:11 [32minfo[39m: Loading plugin: googleSheets
+14:07:12 [32minfo[39m: Loaded plugin: googleSheets
+14:07:12 [32minfo[39m: Server running on port 5000
+14:07:53 [32minfo[39m: Inside Error Handler
+14:07:53 [31merror[39m: concurrencyGauge is not defined
+14:07:53 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:07:57 [32minfo[39m: Inside Error Handler
+14:07:57 [31merror[39m: concurrencyGauge is not defined
+14:07:57 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:01 [32minfo[39m: Inside Error Handler
+14:08:01 [31merror[39m: concurrencyGauge is not defined
+14:08:01 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:05 [32minfo[39m: Inside Error Handler
+14:08:05 [31merror[39m: concurrencyGauge is not defined
+14:08:05 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:09 [32minfo[39m: Inside Error Handler
+14:08:09 [31merror[39m: concurrencyGauge is not defined
+14:08:09 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:13 [32minfo[39m: Inside Error Handler
+14:08:13 [31merror[39m: concurrencyGauge is not defined
+14:08:13 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:17 [32minfo[39m: Inside Error Handler
+14:08:17 [31merror[39m: concurrencyGauge is not defined
+14:08:17 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:21 [32minfo[39m: Inside Error Handler
+14:08:21 [31merror[39m: concurrencyGauge is not defined
+14:08:21 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:25 [32minfo[39m: Inside Error Handler
+14:08:25 [31merror[39m: concurrencyGauge is not defined
+14:08:25 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:29 [32minfo[39m: Inside Error Handler
+14:08:29 [31merror[39m: concurrencyGauge is not defined
+14:08:29 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:33 [32minfo[39m: Inside Error Handler
+14:08:33 [31merror[39m: concurrencyGauge is not defined
+14:08:33 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:37 [32minfo[39m: Inside Error Handler
+14:08:37 [31merror[39m: concurrencyGauge is not defined
+14:08:37 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:41 [32minfo[39m: Inside Error Handler
+14:08:41 [31merror[39m: concurrencyGauge is not defined
+14:08:41 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:45 [32minfo[39m: Inside Error Handler
+14:08:45 [31merror[39m: concurrencyGauge is not defined
+14:08:45 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:49 [32minfo[39m: Inside Error Handler
+14:08:49 [31merror[39m: concurrencyGauge is not defined
+14:08:49 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:53 [32minfo[39m: Inside Error Handler
+14:08:53 [31merror[39m: concurrencyGauge is not defined
+14:08:53 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:08:57 [32minfo[39m: Inside Error Handler
+14:08:57 [31merror[39m: concurrencyGauge is not defined
+14:08:57 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:09:01 [32minfo[39m: Inside Error Handler
+14:09:01 [31merror[39m: concurrencyGauge is not defined
+14:09:01 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:09:05 [32minfo[39m: Inside Error Handler
+14:09:05 [31merror[39m: concurrencyGauge is not defined
+14:09:05 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:09:09 [32minfo[39m: Inside Error Handler
+14:09:09 [31merror[39m: concurrencyGauge is not defined
+14:09:09 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:09:13 [32minfo[39m: Inside Error Handler
+14:09:13 [31merror[39m: concurrencyGauge is not defined
+14:09:13 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:09:17 [32minfo[39m: Inside Error Handler
+14:09:17 [31merror[39m: concurrencyGauge is not defined
+14:09:17 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:09:21 [32minfo[39m: Inside Error Handler
+14:09:21 [31merror[39m: concurrencyGauge is not defined
+14:09:21 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:09:25 [32minfo[39m: Inside Error Handler
+14:09:25 [31merror[39m: concurrencyGauge is not defined
+14:09:25 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:09:29 [32minfo[39m: Inside Error Handler
+14:09:29 [31merror[39m: concurrencyGauge is not defined
+14:09:29 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:09:33 [32minfo[39m: Stopping the server...
+14:09:33 [32minfo[39m: Stopping the express connection...
+14:09:33 [32minfo[39m: Server and MongoDB connection stopped
+14:09:33 [32minfo[39m: Stopping the server...
+14:09:41 [32minfo[39m: Logging Started!
+14:09:41 [32minfo[39m: Metrics collector configured
+14:09:41 [32minfo[39m: Middleware configured
+14:09:41 [32minfo[39m: Metrics Middleware configured
+14:09:41 [32minfo[39m: Routes configured
+14:09:41 [32minfo[39m: Error handling set up
+14:09:41 [32minfo[39m: Metrics Collection routes configured
+14:09:41 [32minfo[39m: DataCollectionApp initialized
+14:09:43 [32minfo[39m: Connected to Mongoose
+14:09:43 [32minfo[39m: Loading plugin: googleSheets
+14:09:43 [32minfo[39m: Loaded plugin: googleSheets
+14:09:43 [32minfo[39m: Server running on port 5000
+14:09:45 [32minfo[39m: Inside Error Handler
+14:09:45 [31merror[39m: concurrencyGauge is not defined
+14:09:45 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:09:49 [32minfo[39m: Inside Error Handler
+14:09:49 [31merror[39m: concurrencyGauge is not defined
+14:09:49 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:09:53 [32minfo[39m: Inside Error Handler
+14:09:53 [31merror[39m: concurrencyGauge is not defined
+14:09:53 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:09:57 [32minfo[39m: Inside Error Handler
+14:09:57 [31merror[39m: concurrencyGauge is not defined
+14:09:57 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:10:01 [32minfo[39m: Inside Error Handler
+14:10:01 [31merror[39m: concurrencyGauge is not defined
+14:10:01 [31merror[39m: ReferenceError: concurrencyGauge is not defined
+    at concurrencyMiddleware (D:\Documents D\Plug n Play Architecture\metrics\metricsMiddleware.js:34:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:280:10)
+    at responseTime (D:\Documents D\Plug n Play Architecture\node_modules\response-time\index.js:61:5)
+    at Layer.handle [as handle_request] (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:328:13)
+    at D:\Documents D\Plug n Play Architecture\node_modules\express\lib\router\index.js:286:9
+14:10:05 [32minfo[39m: Stopping the server...
+14:10:05 [32minfo[39m: Stopping the express connection...
+14:10:05 [32minfo[39m: Server and MongoDB connection stopped
+14:10:05 [32minfo[39m: Stopping the server...
+14:10:08 [32minfo[39m: Logging Started!
+14:10:08 [32minfo[39m: Metrics collector configured
+14:10:08 [32minfo[39m: Middleware configured
+14:10:08 [32minfo[39m: Metrics Middleware configured
+14:10:08 [32minfo[39m: Routes configured
+14:10:08 [32minfo[39m: Error handling set up
+14:10:08 [32minfo[39m: Metrics Collection routes configured
+14:10:08 [32minfo[39m: DataCollectionApp initialized
+14:10:09 [32minfo[39m: Connected to Mongoose
+14:10:09 [32minfo[39m: Loading plugin: googleSheets
+14:10:10 [32minfo[39m: Loaded plugin: googleSheets
+14:10:10 [32minfo[39m: Server running on port 5000
+14:10:10 [32minfo[39m: Stopping the server...
+14:10:46 [32minfo[39m: Logging Started!
+14:10:46 [32minfo[39m: Metrics collector configured
+14:10:46 [32minfo[39m: Middleware configured
+14:10:46 [32minfo[39m: Metrics Middleware configured
+14:10:46 [32minfo[39m: Routes configured
+14:10:46 [32minfo[39m: Error handling set up
+14:10:46 [32minfo[39m: Metrics Collection routes configured
+14:10:46 [32minfo[39m: DataCollectionApp initialized
+14:10:48 [32minfo[39m: Connected to Mongoose
+14:10:48 [32minfo[39m: Loading plugin: googleSheets
+14:10:48 [32minfo[39m: Loaded plugin: googleSheets
+14:10:48 [32minfo[39m: Server running on port 5000
+14:13:36 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+14:13:36 [32minfo[39m: Inside Error Handler
+14:13:36 [31merror[39m: Form doesn't exist!
+14:13:36 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+14:14:23 [32minfo[39m: Stopping the server...
+14:14:23 [32minfo[39m: Stopping the express connection...
+14:14:23 [32minfo[39m: Server and MongoDB connection stopped
+14:14:23 [32minfo[39m: Stopping the server...

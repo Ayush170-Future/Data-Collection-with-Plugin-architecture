@@ -6,7 +6,8 @@ const Plugins = require('./pluginsManager.js');
 const EventEmitter = require('events');
 const logger = require('./logger/index.js');
 const responseTime = require('response-time');
-const {client, reqResTime, totalReqCounter} = require('./metrics');
+const { client } = require('./metrics/metric.js');
+const {responseTimeMiddleware, concurrencyMiddleware} = require('./metrics/metricsMiddleware.js');
 
 class DataCollectionApp extends EventEmitter {
   constructor() {
@@ -17,6 +18,7 @@ class DataCollectionApp extends EventEmitter {
     this.plugins = new Plugins(this);
 
     this.setupMiddleware();
+    this.setupMetricsMiddleware();
     this.setupRoutes();
     this.setupErrorHandling();
     this.setupMetricCollectionRoute();
@@ -28,18 +30,13 @@ class DataCollectionApp extends EventEmitter {
     logger.info('Middleware configured');
   }
 
-  setupRoutes() {
-    // Triggers the Metric collection
-    this.server.use(responseTime((req, res, time) => {
-        totalReqCounter.inc();
-        reqResTime.labels({
-            method: req.method,
-            route: req.method,
-            status_code: res.statusCode,
-        })
-        .observe(time);
-    }))
+  setupMetricsMiddleware() {
+    this.server.use(responseTimeMiddleware);
+    this.server.use(concurrencyMiddleware);
+    logger.info('Metrics Middleware configured');
+  }
 
+  setupRoutes() {
     // General Route
     this.server.get('/', (req, res) => {
         res.send('Welcome to the most Failsafe, Scalable and Modular Data collection Backend ever!');
