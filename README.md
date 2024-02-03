@@ -57,7 +57,11 @@ This backend application serves as a robust data collection tool designed around
 
 2. **Optimize MongoDB Autoscaling:**
 
-   Pick paid the MongoDB plan for autoscaling.## 🚀 About Me
+   Pick paid the MongoDB plan for autoscaling.
+
+
+## 🚀 About Me
+
 Hey! This is Ayush Singh. I'm a backend developer and a Bitcoin core contributor from India. 
 
 Most recently, I was chosen among 45 students from all over the world for the Summer of Bitcoin internship, where I was responsible for making open-source contributions to Bitcoin Core. I made 4 PRs to the original Bitcoin you must have heard about in the news, one of them is already merged and is in production. Along with that, I'm a backend developer who has worked on many full-stack applications related to Blockchain and Core CS technologies. I'm also a great problem solver as I do a lot of competitive programming, I'm a Specialist on Codeforces, an ICPC India regionalist, and a Knight on Leetcode.
