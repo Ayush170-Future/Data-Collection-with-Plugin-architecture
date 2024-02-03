@@ -2402,3 +2402,135 @@
 02:41:01 [32minfo[39m: Server running on port 5000
 02:41:01 [32minfo[39m: Stopping the server...
 02:41:01 [32minfo[39m: Stopping the server...
+12:57:14 [32minfo[39m: Logging Started!
+12:57:15 [32minfo[39m: Metrics collector configured
+12:57:15 [32minfo[39m: Middleware configured
+12:57:15 [32minfo[39m: Routes configured
+12:57:15 [32minfo[39m: Error handling set up
+12:57:15 [32minfo[39m: Metrics Collection routes configured
+12:57:15 [32minfo[39m: DataCollectionApp initialized
+12:57:15 [32minfo[39m: Connected to Mongoose
+12:57:15 [32minfo[39m: Loading plugin: googleSheets
+12:57:16 [32minfo[39m: Loaded plugin: googleSheets
+12:57:16 [32minfo[39m: Server running on port 5000
+12:57:26 [32minfo[39m: Stopping the server...
+12:57:26 [32minfo[39m: Stopping the express connection...
+12:57:26 [32minfo[39m: Server and MongoDB connection stopped
+12:57:26 [32minfo[39m: Stopping the server...
+12:57:47 [32minfo[39m: Logging Started!
+12:57:47 [32minfo[39m: Metrics collector configured
+12:57:47 [32minfo[39m: Middleware configured
+12:57:47 [32minfo[39m: Routes configured
+12:57:47 [32minfo[39m: Error handling set up
+12:57:47 [32minfo[39m: Metrics Collection routes configured
+12:57:47 [32minfo[39m: DataCollectionApp initialized
+12:57:48 [32minfo[39m: Connected to Mongoose
+12:57:48 [32minfo[39m: Loading plugin: googleSheets
+12:57:48 [32minfo[39m: Loaded plugin: googleSheets
+12:57:48 [32minfo[39m: Server running on port 5000
+12:57:51 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:57:51 [32minfo[39m: Inside Error Handler
+12:57:51 [31merror[39m: Form doesn't exist!
+12:57:51 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:15 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:15 [32minfo[39m: Inside Error Handler
+12:58:15 [31merror[39m: Form doesn't exist!
+12:58:15 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:15 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:15 [32minfo[39m: Inside Error Handler
+12:58:15 [31merror[39m: Form doesn't exist!
+12:58:15 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:16 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:16 [32minfo[39m: Inside Error Handler
+12:58:16 [31merror[39m: Form doesn't exist!
+12:58:16 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:16 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:16 [32minfo[39m: Inside Error Handler
+12:58:16 [31merror[39m: Form doesn't exist!
+12:58:16 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:16 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:16 [32minfo[39m: Inside Error Handler
+12:58:16 [31merror[39m: Form doesn't exist!
+12:58:16 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:16 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:16 [32minfo[39m: Inside Error Handler
+12:58:16 [31merror[39m: Form doesn't exist!
+12:58:16 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:16 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:16 [32minfo[39m: Inside Error Handler
+12:58:16 [31merror[39m: Form doesn't exist!
+12:58:16 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:16 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:16 [32minfo[39m: Inside Error Handler
+12:58:16 [31merror[39m: Form doesn't exist!
+12:58:16 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:17 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:17 [32minfo[39m: Inside Error Handler
+12:58:17 [31merror[39m: Form doesn't exist!
+12:58:17 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:17 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:17 [32minfo[39m: Inside Error Handler
+12:58:17 [31merror[39m: Form doesn't exist!
+12:58:17 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:17 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:17 [32minfo[39m: Inside Error Handler
+12:58:17 [31merror[39m: Form doesn't exist!
+12:58:17 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:17 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:17 [32minfo[39m: Inside Error Handler
+12:58:17 [31merror[39m: Form doesn't exist!
+12:58:17 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:17 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:17 [32minfo[39m: Inside Error Handler
+12:58:17 [31merror[39m: Form doesn't exist!
+12:58:17 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:19 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:19 [32minfo[39m: Inside Error Handler
+12:58:19 [31merror[39m: Form doesn't exist!
+12:58:19 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:20 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:20 [32minfo[39m: Inside Error Handler
+12:58:20 [31merror[39m: Form doesn't exist!
+12:58:20 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:21 [33mwarn[39m: addResponseToAForm - Form doesn't exist
+12:58:21 [32minfo[39m: Inside Error Handler
+12:58:21 [31merror[39m: Form doesn't exist!
+12:58:21 [31merror[39m: Error: Form doesn't exist!
+    at D:\Documents D\Plug n Play Architecture\controllers\responseControllers.js:22:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+12:58:23 [32minfo[39m: Stopping the server...
+12:58:23 [32minfo[39m: Stopping the express connection...
+12:58:23 [32minfo[39m: Server and MongoDB connection stopped
+12:58:23 [32minfo[39m: Stopping the server...

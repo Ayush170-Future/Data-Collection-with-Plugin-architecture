@@ -1,0 +1,4 @@
+PORT=5000
+MONGODB_URI=<your-mongodb-atlas-address>
+client_email=<your-client-email-for-googleapi-auth>
+private_key=<your-private_key-for-googleapi-auth>

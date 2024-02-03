@@ -42,7 +42,7 @@ class DataCollectionApp extends EventEmitter {
 
     // General Route
     this.server.get('/', (req, res) => {
-        res.send('Welcome to the default home page!');
+        res.send('Welcome to the most Failsafe, Scalable and Modular Data collection Backend ever!');
     });
 
     // Form routes
@@ -107,5 +107,5 @@ async function startApp() {
 startApp();
 
 ["exit", "SIGINT", "SIGUSR1", "SIGUSR2", "SIGTERM"].forEach(event => {
-    process.on(event, () => global.dataCollectionApp.stop()); // uncaughtException
+    process.on(event, () => global.dataCollectionApp.stop());
 });
