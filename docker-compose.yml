@@ -7,3 +7,13 @@ services:
       - 9090:9090
     volumes:
       - ./prometheus-config.yml:/etc/prometheus/prometheus.yml
+
+  my-node-app:
+    image: ayushsingh170/data-collection-plugin-backend:latest
+    ports:
+      - 5000:5000
+
+  grafana:
+    image: grafana/grafana-oss
+    ports:
+      - 3000:3000

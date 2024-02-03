@@ -2991,3 +2991,19 @@
 14:14:23 [32minfo[39m: Stopping the express connection...
 14:14:23 [32minfo[39m: Server and MongoDB connection stopped
 14:14:23 [32minfo[39m: Stopping the server...
+19:58:52 [32minfo[39m: Logging Started!
+19:58:53 [32minfo[39m: Metrics collector configured
+19:58:53 [32minfo[39m: Middleware configured
+19:58:53 [32minfo[39m: Metrics Middleware configured
+19:58:53 [32minfo[39m: Routes configured
+19:58:53 [32minfo[39m: Error handling set up
+19:58:53 [32minfo[39m: Metrics Collection routes configured
+19:58:53 [32minfo[39m: DataCollectionApp initialized
+19:58:54 [32minfo[39m: Connected to Mongoose
+19:58:54 [32minfo[39m: Loading plugin: googleSheets
+19:58:56 [32minfo[39m: Loaded plugin: googleSheets
+19:58:56 [32minfo[39m: Server running on port 5000
+19:59:45 [32minfo[39m: Stopping the server...
+19:59:45 [32minfo[39m: Stopping the express connection...
+19:59:45 [32minfo[39m: Server and MongoDB connection stopped
+19:59:45 [32minfo[39m: Stopping the server...

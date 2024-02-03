@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
-    "clusters": "node clusters.js"
+    "start": "node src/app.js",
+    "clusters": "node src/clusters.js"
   },
   "keywords": [],
   "author": "",
