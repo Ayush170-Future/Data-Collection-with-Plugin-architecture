@@ -2,19 +2,62 @@
 
 This backend application serves as a robust data collection tool designed around a plugin architecture. The implementation allows the seamless addition of new features without altering the core functionality of the data collection app. For instance, integrated Google Sheets on every form creation and response addition illustrates the flexibility and extensibility of the plugin system. These plugins respond to events triggered by the main app, ensuring smooth and modular enhancements.
 
+![Architectural_Diagram](./Architectural_Diagram.jpg)
+
 ## Features
 
-- **Plugin Architecture:** Employs a flexible plugin system that facilitates the addition of new functionalities without modifying the core application.
+## Plugin Architecture
 
-- **Google Sheets Integration:** Integrated Google Sheets on form creation and response addition, showcasing the versatility of the plugin system.
+Our system is designed with a modular Plugin Architecture that allows for seamless feature integration without modifying the core functionality and codebase. Key features include:
 
-- **Failsafe Implementation:** Ensures the application's resilience through comprehensive error handling, logging, and graceful shutdown mechanisms triggered by various process events such as exit, SIGINT, etc.
+- **Modularity**: The system supports a modular approach, enabling the integration of new features without altering the core functionality.
+  
+- **Event-Based Approach**: Plugins respond to events triggered by the main application and carry out their functionality using the data conveyed by these events.
 
-- **Monitoring with Prometheus and Grafana:** Utilizes Prometheus and Grafana for monitoring the Node.js server. Custom metrics, including concurrency and counts of various interactions, provide valuable insights.
+- **Plugin Configuration**: A dedicated Plugin Config file facilitates the addition and removal of plugins. The Plugin Manager loads plugins at runtime during the initialization of the main application.
 
-- **Clustering for Scalability:** Implements clustering to horizontally scale the application, making it well-suited for handling high traffic loads.
+## Google Sheets Integration
 
-- **Dockerized Deployment:** Dockerized for streamlined deployment, offering ease of reproduction and quick setup.
+The system offers seamless integration with Google Sheets, providing the following functionalities:
+
+- Dynamically creates new sheets when forms are generated.
+- Adds rows to the sheet when a response is added.
+- Inserts columns in the header when questions are added to a form.
+
+## Failsafe Implementation
+
+To ensure robustness and reliability, our system incorporates a failsafe implementation, including:
+
+- **Robust Error Handling**: Comprehensive error handling is implemented across all routes.
+  
+- **Logging**: Utilizes Winston for logging, with output to the console and a .log file. Different log levels such as info, error, and warn are supported.
+
+- **Graceful Shutdown Mechanisms**: Ensures reliability in case of plugin failure, process crashes, or closures.
+
+## Monitoring with Prometheus and Grafana
+
+Our system utilizes Prometheus and Grafana for insightful server monitoring, offering custom metrics for:
+
+- Concurrency
+- CPU Usage
+- Event Loop
+- Forms Route
+- Response Route
+- Request-Response Delay
+
+## Clustering for Scalability
+
+To enhance performance and scalability, our system implements Node.js clustering.
+
+## Dockerized Deployment
+
+For convenient deployment, our system is Dockerized, with the following features:
+
+- **Containers**: Docker containers are provided for the main application, Grafana, and Prometheus.
+
+- **Docker-Compose**: Utilizes Docker-compose to manage multiple containers, with port-mapping for easy local machine access.
+
+
 ## Installation
 
 ### Without Docker
