@@ -2,7 +2,7 @@
 
 This backend application serves as a robust data collection tool designed around a plugin architecture. The implementation allows the seamless addition of new features without altering the core functionality of the data collection app. For instance, integrated Google Sheets on every form creation and response addition illustrates the flexibility and extensibility of the plugin system. These plugins respond to events triggered by the main app, ensuring smooth and modular enhancements.
 
-![Architectural_Diagram](./Architectural_Diagram.jpg)
+![Architectural_Diagram](./ArchitecturalDiagram.jpg)
 
 ## Features
 
